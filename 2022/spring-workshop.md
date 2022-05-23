@@ -36,7 +36,7 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="presentation">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</td>
+    <td class="presentation"><a href="schraudner.pdf">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</a></td>
   </tr>
   <tr>
     <td>11h00</td>
@@ -150,3 +150,5 @@ Scan the following QR code to pass revolving doors behind the parking lot:
     <td>13h30</td>
   </tr>
 </table>
+
+<!-- Autonomous Buildings: A case for knowledge-driven MAS (Ganesh) -->
