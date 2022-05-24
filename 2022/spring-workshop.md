@@ -121,11 +121,11 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>10h00</td>
-    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas)</td>
+    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas, René Dorsch)</td>
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="presentation">Reasoning in the Constrained Semantic Web of Things (Lina Nachabe)</td>
+    <td class="presentation">Autonomous Buildings: A Case for Knowledge-Driven MAS (Ganesh Ramanathan)</td>
   </tr>
   <tr>
     <td>11h00</td>
