@@ -36,7 +36,7 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="presentation"><a href="schraudner.pdf">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</a></td>
+    <td class="presentation"><a href="schraudner.pdf">A RESTful Interaction Model for Semantic Digital Twins (Daniel Schraudner)</a></td>
   </tr>
   <tr>
     <td>11h00</td>
