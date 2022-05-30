@@ -72,6 +72,10 @@ header span.third {
     font-weight: 700;
 }
 
+a:link {
+    color: #61259e;
+}
+
 footer {
     max-width: 640px;
     margin: auto;
