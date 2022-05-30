@@ -22,6 +22,7 @@ body {
 
 header {
     max-width: 950px;
+    margin-top: 30px;
     margin: auto;
     padding: 20px;  
     color: #1f1c1c;
@@ -30,7 +31,7 @@ header {
     text-align: center;
     border-bottom: 1px solid lightgrey;
     
-    margin-top: 0px;
+    
     padding-top: 0px;
     vertical-align: text-top;
     
