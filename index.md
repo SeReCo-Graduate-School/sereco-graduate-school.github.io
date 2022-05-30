@@ -1,7 +1,7 @@
 <br>
-SeReCo is a graduate school gathering researchers from [FAU Erlangen-Nuremberg](https://www.fau.de/), [Karlsruhe Institue of Technology](https://www.kit.edu/), [St. Gallen University](https://www.unisg.ch/), [Mines Saint-Étienne](https://www.mines-stetienne.fr/) and [Jean Monnet University](https://www.univ-st-etienne.fr/).
+<span class="strong">SeReCo</span> is a graduate school gathering researchers from [FAU Erlangen-Nuremberg](https://www.fau.de/), [Karlsruhe Institue of Technology](https://www.kit.edu/), [St. Gallen University](https://www.unisg.ch/), [Mines Saint-Étienne](https://www.mines-stetienne.fr/) and [Jean Monnet University](https://www.univ-st-etienne.fr/).
 
-The scientific purpose of the SeReCo graduate school is to explore the synergy between Web Science and Artificial Intelligence (AI). We are focusing, on the one hand, on semantic technologies to provide machines with the possibility to reason on the digital contents made available on the Web, and, on the other hand, on the coordination technologies to provide machines with the possibility to collaboratively operate on the ever increasing set of deployed services.
+The scientific purpose of the <span class="strong">SeReCo</span> graduate school is to explore the synergy between Web Science and Artificial Intelligence (AI). We are focusing, on the one hand, on semantic technologies to provide machines with the possibility to reason on the digital contents made available on the Web, and, on the other hand, on the coordination technologies to provide machines with the possibility to collaboratively operate on the ever increasing set of deployed services.
 
 Our research topics include:
 - Semantic data modeling: Linked Data, ontologie, annotations
