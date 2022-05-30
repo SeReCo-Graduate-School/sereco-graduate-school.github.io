@@ -22,14 +22,18 @@ body {
 
 header {
     max-width: 950px;
-    margin: auto;
-    padding: 20px;  
-    color: white;
-    font-weight: bolder;
-    font-size: 2.5em;
-    color: lightgrey;
+    
     text-align: center;
     border-bottom: 1px solid lightgrey;
+    
+    margin-top: 0px;
+    padding-top: 0px;
+    vertical-align: text-top;
+    color: #fff;
+    font-size: 80px;
+    font-weight: 400;
+    letter-spacing: 10px;
+    text-shadow: 5px 5px #666;
 }
 
 header a {
