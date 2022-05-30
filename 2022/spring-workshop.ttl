@@ -1,0 +1,278 @@
+@prefix : <https://sereco-graduate-school.github.io/2022/spring-workshop#> .
+@prefix az: <https://w3id.org/people/az/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix sereco: <https://sereco-graduate-school.github.io/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+sereco: a schema:Project;
+  rdfs:label "SeReCo"@en;
+  rdfs:comment "French-German doctoral college on Semanics, Reasoning, and Coordination, funded by the French-German University."@en .
+
+:this a schema:Event;
+  rdfs:label "SeReCo workshop"@en;
+  rdfs:comment "First SeReCo workshop in France."@en;
+  schema:attendee sereco:sogo-amagai, sereco:victor-charpenay, sereco:alaa-daoud, sereco:dennis-diefenbach, sereco:rene-dorsch, sereco:michael-freund, sereco:chiara-galimberti, sereco:jose-m-gimenez-garcia, sereco:zhou-gui, sereco:fatma-zohra-hannou, sereco:andreas-harth, sereco:daniel-henselmann, sereco:zehor-thilleli-hounas, sereco:mouloud-iferroudjene, sereco:tobias-kafer, sereco:jeremy-lemee, sereco:pierre-maret, sereco:lina-nachabe, sereco:l-gustavo-nardin, sereco:ganesh-ramanathan, sereco:sebastian-schmid, sereco:daniel-schraudner, sereco:danai-vachtsevanou, sereco:arun-raveendran-sheela, sereco:antoine-zimmermann;
+  schema:duration "P2D";
+  schema:startDate "2022-05-23T10:00:00+02:00"^^xsd:dateTime;
+  schema:endDate "2022-05-24T14:00:00+02:00"^^xsd:dateTime;
+  schema:funding <ufa-dfh>;
+  schema:inLanguage "en";
+  schema:location [
+    schema:name "Campus Région du numérique"@fr;
+    schema:address [
+      schema:streetAddress "78, route de Paris";
+      schema:addressLocality "Charbonnières-les-Bains";
+      schema:postalCode "69260"
+    ];
+    schema:hasMap <https://www.openstreetmap.org/search?query=Campus%20R%C3%A9gion%20du%20num%C3%A9rique#map=18/45.78065/4.74808>, <https://g.page/campusregionnumerique?share>;
+  ];
+  schema:organizer sereco:victor-charpnay;
+  schema:subEvent :introduction, :multi-agent-systems-in-the-semantic-web, :question-answering-technologies-for-knowledge-graphs, :building-a-knowledge-base-on-trusted-electronics, :lunch-day1, :models-and-verification-for-composition-and-reconfiguration-of-web-of-things-applications, :decentralized-self-adaption-with-epidemic-algorithms-for-agent-based-transportation, :signifiers-for-affordance-driven-multi-agent-systems, :break-afternoon1, :a-domain-specific-language-for-constrained-semantic-web-of-things, :blast-block-applications-for-things, :hdtr-managing-reified-triples-in-compressed-space, :linked-data-augmented-in-browser-interaction-with-the-digital-twin-of-a-smart-building, :dinner-day1, :phd-introductions, :text-to-code-generation-for-iiot-use-cases, :machine-learning-for-manufacturing-applications, :visit-of-the-diwii-experimentation-platform, :lunch-day2 .
+
+sereco:sogo-amagai a schema:Person;
+    schema:givenName "Sogo";
+    schema:familyName "Amagai";
+    schema:email "samagai@s.h.k.u-tokyo.ac.jp";
+    schema:affiliation sereco:UJM .
+sereco:victor-charpenay a schema:Person;
+    schema:givenName "Victor";
+    schema:familyName "Charpenay";
+    schema:email "victor.charpenay@emse.fr";
+    schema:affiliation sereco:EMSE .
+sereco:alaa-daouda a schema:Person;
+    schema:givenName "Alaa";
+    schema:familyName "Daoud";
+    schema:email "alaa.daoud@emse.fr";
+    schema:affiliation sereco:EMSE .
+sereco:dennis-diefenbach a schema:Person;
+    schema:givenName "Dennis";
+    schema:familyName "Diefenbach";
+    schema:email "dennis.diefenbach@the-qa-company.com";
+    schema:affiliation sereco:UJM, wd:Q100501108 .
+sereco:rene-dorsch a schema:Person;
+    schema:givenName "Rene";
+    schema:familyName "Dorsch";
+    schema:email "rene.dorsch@iis.fraunhofer.de";
+    schema:affiliation sereco:FAU .
+sereco:michael-freund a schema:Person;
+    schema:givenName "Michael";
+    schema:familyName "Freund";
+    schema:email "michael.freund@iis.fraunhofer.de";
+    schema:affiliation sereco:FAU .
+sereco:chiara-galimberti a schema:Person;
+    schema:givenName "Chiara";
+    schema:familyName "Galimberti";
+    schema:email "chiara.galimberti@siemens.com";
+    schema:affiliation sereco:FAU .
+sereco:jose-m-gimenez-garcia a schema:Person;
+    schema:givenName "José M.";
+    schema:familyName "Giménez-García";
+    schema:email "jose.gimenez.garcia@univ-st-etienne.fr";
+    schema:affiliation sereco:UJM .
+sereco:zhou-gui a schema:Person;
+    schema:givenName "Zhou";
+    schema:familyName "Gui";
+    schema:email "zhou.gui@fau.de";
+    schema:affiliation sereco:FAU .
+sereco:fatma-zohra-hannou a schema:Person;
+    schema:givenName "Fatma-Zohra";
+    schema:familyName "Hannou";
+    schema:email "fatma-zohra.hannou@emse.fr";
+    schema:affiliation sereco:EMSE .
+sereco:andreas-harth a schema:Person;
+    schema:givenName "Andreas";
+    schema:familyName "Harth";
+    schema:email "andreas.harth@fau.de";
+    schema:affiliation sereco:FAU .
+sereco:daniel-henselmann a schema:Person;
+    schema:givenName "Daniel";
+    schema:familyName "Henselmann";
+    schema:email "daniel.henselmann@iis.fraunhofer.de";
+    schema:affiliation sereco:FAU .
+sereco:zehor-thilleli-hounas a schema:Person;
+    schema:givenName "Zehor Thilleli";
+    schema:familyName "Hounas";
+    schema:email "zehor-thilleli.hounas@edf.fr";
+    schema:affiliation sereco:EMSE .
+sereco:mouloud-iferroudjene a schema:Person;
+    schema:givenName "Mouloud";
+    schema:familyName "Iferroudjène";
+    schema:email "mouloud.iferroudjene@emse.fr";
+    schema:affiliation sereco:EMSE .
+sereco:tobias-kafer a schema:Person;
+    schema:givenName "Tobias";
+    schema:familyName "Käfer";
+    schema:email "tobias.kaefer@kit.edu";
+    schema:affiliation sereco:KIT .
+sereco:jeremy-lemee a schema:Person;
+    schema:givenName "Jérémy";
+    schema:familyName "Lemée";
+    schema:email "jeremy.lemee@unisg.ch";
+    schema:affiliation sereco:USG .
+sereco:pierre-maret a schema:Person;
+    schema:givenName "Pierre";
+    schema:familyName "Maret";
+    schema:email "pierre.maret@univ-st-etienne.fr";
+    schema:affiliation sereco:UJM .
+sereco:lina-nachabe a schema:Person;
+    schema:givenName "Lina";
+    schema:familyName "Nachabe";
+    schema:email "lina.nachabe@univ-st-etienne.fr";
+    schema:affiliation sereco:UJM .
+sereco:l-gustavo-nardin a schema:Person;
+    schema:givenName "L. Gustavo";
+    schema:familyName "Nardin";
+    schema:email "luisgustavo.nardin@emse.fr";
+    schema:affiliation sereco:EMSE .
+sereco:ganesh-ramanathan a schema:Person;
+    schema:givenName "Ganesh";
+    schema:familyName "Ramanathan";
+    schema:email "ganesh.ramanathan@siemens.com";
+    schema:affiliation sereco:USG .
+sereco:sebastian-schmid a schema:Person;
+    schema:givenName "Sebastian";
+    schema:familyName "Schmid";
+    schema:email "sebastian.schmid@fau.de";
+    schema:affiliation sereco:FAU .
+sereco:daniel-schraudner a schema:Person;
+    schema:givenName "Daniel";
+    schema:familyName "Schraudner";
+    schema:email "daniel.schraudner@fau.de";
+    schema:affiliation sereco:FAU .
+sereco:danai-vachtsevanou a schema:Person;
+    schema:givenName "Danai";
+    schema:familyName "Vachtsevanou";
+    schema:email "danai.vachtsevanou@unisg.ch";
+    schema:affiliation sereco:USG .
+sereco:arun-raveendran-sheela a schema:Person;
+    schema:givenName "Arun";
+    schema:familyName "Vishnu";
+    schema:email "arunvishnu40@gmail.com";
+    schema:affiliation sereco:EMSE .
+sereco:antoine-zimmermann a schema:Person;
+    schema:givenName "Antoine";
+    schema:familyName "Zimmermann";
+    schema:email "antoine.zimmermann@emse.fr";
+    schema:affiliation sereco:EMSE .
+
+:introduction a schema:Event;
+    schema:startDate "2022-05-23T10:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T10:30:00+02:00"^^xsd:dateTime;
+    dct:title "Introduction"@en;
+    schema:performer sereco:victor-charpenay, sereco:andreas-harth, sereco:antoine-zimmermann, sereco:tobias-kafer, sereco:jeremy-lemee .
+:multi-agent-systems-in-the-semantic-web:introduction a schema:Event;
+    schema:startDate "2022-05-23T10:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T11:00:00+02:00"^^xsd:dateTime;
+    dct:title "Multi-Agent Systems in the Semantic Web"@en;
+    schema:performer sereco:daniel-schraudner .
+:question-answering-technologies-for-knowledge-graphs a schema:Event;
+    schema:startDate "2022-05-23T11:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T11:30:00+02:00"^^xsd:dateTime;
+    dct:title "Question Answering Technologies for Knowledge Graphs"@en;
+    schema:performer sereco:dennis-diefenbach .
+:building-a-knowledge-base-on-trusted-electronics a schema:Event;
+    schema:startDate "2022-05-23T11:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T12:00:00+02:00"^^xsd:dateTime;
+    dct:title "Building a Knowledge Base on Trusted Electronics"@en;
+    schema:performer sereco:daniel-henselmann .
+:lunch-day1 a schema:FoodEvent;
+    schema:startDate "2022-05-23T12:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T14:00:00+02:00"^^xsd:dateTime;
+    rdfs:comment "Lunch at Côté Couleurs"@en;
+    schema:location [
+      schema:name "Côté Couleurs";
+      schema:address [
+        schema:streetAddress "86 route de Paris";
+        schema:addressLocality "Charbonnières-les-Bains";
+        schema:postalCode "69260"
+      ];
+      schema:hasMap <https://goo.gl/maps/Mp2oc46DkA1sWhs79>, <https://www.openstreetmap.org/node/9102208451>
+    ] .
+:models-and-verification-for-composition-and-reconfiguration-of-web-of-things-applications a schema:Event;
+    schema:startDate "2022-05-23T14:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T15:00:00+02:00"^^xsd:dateTime;
+    dct:title "Models and Verification for Composition and Reconfiguration of Web of Things Applications"@en;
+    rdfs:comment "Invited speaker from University Grenoble Alpes"@en;
+    schema:performer [a schema:Person; schema:givenName "Gwen"; schema:familyName "Salaün";schema:email "gwen.salaun@inria.fr";schema:affiliation [schema:name "Université Grenoble Alpes"]] .
+:decentralized-self-adaption-with-epidemic-algorithms-for-agent-based-transportation a schema:Event;
+    schema:startDate "2022-05-23T15:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T15:30:00+02:00"^^xsd:dateTime;
+    dct:title "Decentralized Self-Adaption With Epidemic Algorithms for Agent-Based Transportation"@en;
+    schema:performer sereco:sebastian-schmid .
+:signifiers-for-affordance-driven-multi-agent-systems a schema:Event;
+    schema:startDate "2022-05-23T15:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T16:00:00+02:00"^^xsd:dateTime;
+    dct:title "Signifiers for Affordance-Driven Multi-Agent Systems"@en;
+    schema:performer sereco:danai-vachtsevanou, sereco:jeremy-lemee .
+:break-afternoon1 a schema:Event;
+    schema:startDate "2022-05-23T16:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T16:30:00+02:00"^^xsd:dateTime;
+    rdfs:comment "Afternoon break"@en .
+:a-domain-specific-language-for-constrained-semantic-web-of-things a schema:Event;
+    schema:startDate "2022-05-23T16:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T17:00:00+02:00"^^xsd:dateTime;
+    dct:title "A Domain-Specific Language for Constrained Semantic Web of Things"@en;
+    schema:performer sereco:fatma-zohra-hannou .
+:hdtr-managing-reified-triples-in-compressed-space a schema:Event;
+    schema:startDate "2022-05-23T17:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T17:30:00+02:00"^^xsd:dateTime;
+    dct:title "HDTr: Managing Reified Triples in Compressed Space"@en;
+    schema:performer sereco:jose-m-gimenez-garcia .
+:blast-block-applications-for-things a schema:Event;
+    schema:startDate "2022-05-23T17:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T18:00:00+02:00"^^xsd:dateTime;
+    dct:title "BLAST: Block Applications for Things"@en;
+    schema:performer sereco:michael-freund .
+:linked-data-augmented-in-browser-interaction-with-the-digital-twin-of-a-smart-building a schema:Event;
+    schema:startDate "2022-05-23T18:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T18:30:00+02:00"^^xsd:dateTime;
+    dct:title "Linked-Data augmented in-browser interaction with the Digital Twin of a Smart Building"@en;
+    schema:performer sereco:arun-raveendran-sheela .
+:dinner-day1 a schema:FoodEvent;
+    schema:startDate "2022-05-23T20:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T23:30:00+02:00"^^xsd:dateTime;
+    rdfs:comment "Dinner at Brasserie Paul Baucuse"@en;
+    schema:location [
+      schema:name "Brasserie L'Ouest Paul Baucuse";
+      schema:address [
+        schema:streetAddress "1 quai du commerce";
+        schema:addressLocality "Lyon";
+        schema:postalCode "69009"
+      ];
+      schema:hasMap <https://goo.gl/maps/CjP7PAMvugpBbo17A>, <https://www.openstreetmap.org/node/1364637809>
+    ] .
+:phd-introductions a schema:Event;
+    schema:startDate "2022-05-23T10:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T10:30:00+02:00"^^xsd:dateTime;
+    dct:title "PhD Introduction"@en;
+    schema:performer sereco:mouloud-iferroudjene, sereco:zehor-tilleli-hounas .
+:text-to-code-generation-for-iiot-use-cases a schema:Event;
+    schema:startDate "2022-05-23T10:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T11:00:00+02:00"^^xsd:dateTime;
+    dct:title "Reasoning in the Constrained Semantic Web of Things"@en;
+    schema:performer sereco:lina-nachabe .
+:machine-learning-for-manufacturing-applications a schema:Event;
+    schema:startDate "2022-05-23T11:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T11:30:00+02:00"^^xsd:dateTime;
+    dct:title "Text to Code Generation for IIoT Use Cases"@en;
+    schema:performer sereco:arun-raveendran-sheela .
+:visit-of-the-diwii-experimentation-platform a schema:Event;
+    schema:startDate "2022-05-23T11:30:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T12:30:00+02:00"^^xsd:dateTime;
+    rdfs:comment "Visit of the DIWII platform"@en .
+:lunch-day2 a schema:FoodEvent;
+    schema:startDate "2022-05-23T12:00:00+02:00"^^xsd:dateTime;
+    schema:endDate "2022-05-23T14:00:00+02:00"^^xsd:dateTime;
+    rdfs:comment "Lunch at Côté Couleurs"@en;
+    schema:location [
+      schema:name "Côté Couleurs";
+      schema:address [
+        schema:streetAddress "86 route de Paris";
+        schema:addressLocality "Charbonnières-les-Bains";
+        schema:postalCode "69260"
+      ];
+      schema:hasMap <https://goo.gl/maps/Mp2oc46DkA1sWhs79>, <https://www.openstreetmap.org/node/9102208451>
+    ] .
