@@ -7,7 +7,7 @@ body {
 }
 
 #main {
-    max-width: 640px;
+    max-width: 950px;
     margin: auto;
     padding: 5px;
 }
@@ -100,7 +100,7 @@ footer a {
     text-align: center;
     background-attachment: relative;
     background-position: center center;
-    min-height: 400px;
+    min-height: 246px;
     width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
