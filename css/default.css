@@ -44,9 +44,7 @@ header {
 header a {
     color: #1f1c1c;
     text-decoration: none;
-    margin-top: 30px;
-    padding-top: 30px;
-}
+  }
 
 header a span {
     display: none;
@@ -121,4 +119,8 @@ footer a {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+#headert {
+    margin-top: 30px;
+    padding-top: 30px;
 }
