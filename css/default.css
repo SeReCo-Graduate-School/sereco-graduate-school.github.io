@@ -81,6 +81,7 @@ footer {
     margin: auto;
     color: lightgray;
     text-align: center;
+    border-top: 1px solid lightgrey;
 }
 
 footer a {
