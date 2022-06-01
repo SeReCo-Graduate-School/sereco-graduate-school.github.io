@@ -73,7 +73,7 @@ header span.third {
 }
 
 a:link {
-    color: #61259e;
+    color: #61259e !important;
 }
 
 footer {
@@ -164,7 +164,7 @@ nav {
     margin-top: -30px;
     margin: auto;
     padding: 20px;  
-    color: #1f1c1c;
+    color: #1f1c1c  !important;
     font-weight: bolder;
     text-align: center;
     border-bottom: 1px solid lightgrey;
@@ -174,8 +174,8 @@ nav {
     vertical-align: text-top;
     
     font-size: 15px;
-    font-weight: 400;
+    font-weight: 700;
     
-    text-shadow: 3px 3px #666;
+    text-shadow: 1px 1px #666;
 }
 
