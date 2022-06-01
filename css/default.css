@@ -43,7 +43,7 @@ header {
 
 header a {
     color: #1f1c1c;
-    text-decoration: none;
+    text-decoration: none !important;
   }
 
 header a span {
