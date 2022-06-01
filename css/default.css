@@ -158,3 +158,24 @@ footer a {
     max-width: 300px;
     max-height: 180px;
 }
+
+nav {
+    max-width: 950px;
+    margin-top: -30px;
+    margin: auto;
+    padding: 20px;  
+    color: #1f1c1c;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    
+    
+    padding-top: 0px;
+    vertical-align: text-top;
+    
+    font-size: 15px;
+    font-weight: 400;
+    
+    text-shadow: 3px 3px #666;
+}
+
