@@ -137,6 +137,11 @@ footer a {
     margin-left: -50px;
 }
 
+#headert a {
+    color: #1f1c1c;
+    text-decoration: none !important;
+  }
+
 .row {
     display: -webkit-box;
     display: -ms-flexbox;
