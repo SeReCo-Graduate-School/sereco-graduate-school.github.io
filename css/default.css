@@ -42,7 +42,7 @@ header {
 }
 
 header a {
-    color: #1f1c1c;
+    color: #1f1c1c  !important;
     text-decoration: none !important;
   }
 
