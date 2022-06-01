@@ -168,14 +168,10 @@ nav {
     font-weight: bolder;
     text-align: center;
     border-bottom: 1px solid lightgrey;
-    
-    
     padding-top: 0px;
     vertical-align: text-top;
-    
-    font-size: 15px;
-    font-weight: 700;
-    
+    font-size: 13px;
+    font-weight: 600;
     text-shadow: 1px 1px #666;
 }
 
