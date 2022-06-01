@@ -47,11 +47,11 @@ header a {
   }
 
 header a span {
-    display: none;
+    display: none !important;
 }
 
 header a:hover span {
-    display: inline;
+    display: inline !important;
 }
 
 header a span.first {
