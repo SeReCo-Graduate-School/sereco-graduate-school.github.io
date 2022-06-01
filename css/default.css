@@ -179,3 +179,7 @@ nav {
     text-shadow: 1px 1px #666;
 }
 
+#navbar-brand a {
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+  }
