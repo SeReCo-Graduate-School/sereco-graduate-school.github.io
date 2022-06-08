@@ -10,12 +10,7 @@ The workshop is located at [Campus Région numérique](https://campusnumerique.a
   <img src="/img/diwii-plan.png" alt="Annonated map of Campus numérique">
 </div>
 
-Access to the campus is restricted.
-Scan the following QR code to pass revolving doors behind the parking lot:
 
-<div style="text-align: center;">
-  <img src="/img/diwii-qrcode.png" alt="QR code to access Campus numérique">
-</div>
 
 
 
