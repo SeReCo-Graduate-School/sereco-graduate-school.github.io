@@ -45,7 +45,7 @@ All dates are CET.
 The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut für Integrierte Schaltungen](https://www.iis.fraunhofer.de/de/profil/standorte/forschungscampus-waischenfeld.html): **Vorstadt 21** in **91344 Waischenfeld (Germany)**.
 
 
-## Program
+## Preliminary Program
 
 <table class="agenda">
   <tr>
@@ -53,8 +53,52 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <th>Monday (17/07)</th>
   </tr>
   <tr>
-    <td></td>
-    <td>TBD</td>
+    <td>09:00</td>
+    <td class="admin">Opening Session</td>
+  </tr>
+  <tr>
+    <td>09:15</td>
+    <td class="presentation">Presentations</td>
+  </tr>
+  <tr>
+    <td>10:15</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td class="highligth">Keynote (Speaker: tbd)</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td class="admin">Lunch</td>
+  </tr>
+  <tr>
+    <td>13:00</td>
+    <td class="presentation">Presentations</td>
+  </tr>
+  <tr>
+    <td>13:30</td>
+    <td class="presentation">Poster Session</td>
+  </tr>
+  <tr>
+    <td>15:00</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:30</td>
+    <td class="presentation">Discussions in Breakout Groups</td>
+  </tr>
+  <tr>
+    <td>17:00</td>
+    <td class="admin">Break</td>
+  </tr>
+  <tr>
+    <td>18:00</td>
+    <td class="admin">Dinner</td>
+  </tr>
+  <tr>
+    <td>19:00</td>
+    <td class="highlight">Social Event</td>
   </tr>
 </table>
 
@@ -64,7 +108,39 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <th>Tuesday (18/07)</th>
   </tr>
   <tr>
-    <td></td>
-    <td>TBD</td>
+    <td>09:00</td>
+    <td class="presentation">Presentations</td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>10:15</td>
+    <td class="presentation">Presentations</td>
+  </tr>
+  <tr>
+    <td>11:15</td>
+    <td class="highlight">Keynote (Speaker: tbd)</td>
+  </tr>
+  <tr>
+    <td>12:15</td>
+    <td class="admin">Lunch</td>
+  </tr>
+  <tr>
+    <td>13:15</td>
+    <td class="admin">Presentations</td>
+  </tr>
+  <tr>
+    <td>13:45</td>
+    <td class="presentation">Breakout Groups</td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td class="admin">Closing Session</td>
+  </tr>
+  <tr>
+    <td>15:30</td>
+    <td>End</td>
   </tr>
 </table>
