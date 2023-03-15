@@ -66,7 +66,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>10:30</td>
-    <td class="highligth">Keynote (Speaker: tbd)</td>
+    <td class="highlight">Keynote (Speaker: tbd)</td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -129,7 +129,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>13:15</td>
-    <td class="admin">Presentations</td>
+    <td class="presentations">Presentations</td>
   </tr>
   <tr>
     <td>13:45</td>
