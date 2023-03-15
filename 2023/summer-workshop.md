@@ -129,7 +129,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>13:15</td>
-    <td class="presentations">Presentations</td>
+    <td class="presentation">Presentations</td>
   </tr>
   <tr>
     <td>13:45</td>
