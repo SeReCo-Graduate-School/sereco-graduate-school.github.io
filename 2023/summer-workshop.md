@@ -5,11 +5,11 @@
 ## Call for Extended Abstracts
 We invite you to submit Extended Abstracts of your work for the Summer Workshop 2023 of the Doctoral College for Semantics, Reasoning and Coordination.
 
-The Workshop will be hosted from 17. - 18.07.2023 in Waischenfeld, Germany, and is open to all PhD students of the participating organizations:
+The Workshop will be hosted on 17th and 18th of July 2023 in Waischenfeld, Germany, and is open to all PhD students of the participating organizations:
 
 * Ecole des Mines Saint-Étienne
 * Friedrich-Alexander-Universität Erlangen-Nürnberg
-*8Université Jean Monnet Saint-Étienne
+* Université Jean Monnet Saint-Étienne
 * Karlsruhe Institute of Technology (KIT)
 * Universität St. Gallen
 
