@@ -133,7 +133,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>13:45</td>
-    <td class="presentation">Breakout Groups</td>
+    <td class="presentation">Discussions in Breakout Groups</td>
   </tr>
   <tr>
     <td>15:15</td>
