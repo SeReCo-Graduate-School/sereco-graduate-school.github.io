@@ -33,12 +33,12 @@ The review criteria are:
 We will publish your Extended Abstracts on this website.
 
 ### Dates
-* 23.04. Submission of Extended Abstracts
-* 26.04. Reviews are given out
-* 21.05. Review deadline
-* 22.05. Notification of authors
-* 21.06. Submission of camera-ready Extended Abstracts
-* 17 - 18.07. SeReCo Summer Workshop 2023
+* April 23: Submission of Extended Abstracts
+* April 26:  Reviews are given out
+* May 21: Review deadline
+* May 22: Notification of authors
+* June 21: Submission of camera-ready Extended Abstracts
+* July 17 and 18: SeReCo Summer Workshop 2023
 
 All dates are CET.
 
@@ -53,7 +53,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
 <table class="agenda">
   <tr>
     <th></th>
-    <th>Monday (17/07)</th>
+    <th>Monday (July 17, 2023)</th>
   </tr>
   <tr>
     <td>09:00</td>
@@ -112,7 +112,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
 <table class="agenda">
   <tr>
     <th></th>
-    <th>Tuesday (18/07)</th>
+    <th>Tuesday (July 18, 2023)</th>
   </tr>
   <tr>
     <td>09:00</td>
