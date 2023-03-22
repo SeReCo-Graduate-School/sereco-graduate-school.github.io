@@ -29,6 +29,9 @@ The review criteria are:
 * Quality of preliminary results (if any)
 * Structure and style of the paper
 
+### Publication
+We will publish your Extended Abstracts on this website.
+
 ### Dates
 * 23.04. Submission of Extended Abstracts
 * 26.04. Reviews are given out
@@ -65,7 +68,11 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="admin">Coffee Break</td>
   </tr>
   <tr>
+  <tr>
     <td>10:30</td>
+    <td class="presentation">Presentations</td>
+  </tr>
+    <td>11:00</td>
     <td class="highlight">Keynote (Speaker: tbd)</td>
   </tr>
   <tr>
