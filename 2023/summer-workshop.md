@@ -73,7 +73,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">Presentations</td>
   </tr>
     <td>11:00</td>
-    <td class="highlight">Keynote (Speaker: [Brian Logan](https://alechina-logan.net/brian/))</td>
+    <td class="highlight">Keynote (Speaker: <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a>)</td>
   </tr>
   <tr>
     <td>12:00</td>
