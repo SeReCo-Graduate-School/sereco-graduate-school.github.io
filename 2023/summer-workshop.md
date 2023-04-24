@@ -33,11 +33,11 @@ The review criteria are:
 We will publish your Extended Abstracts on this website.
 
 ### Dates
-* April 23: Submission of Extended Abstracts
-* April 26:  Reviews are given out
-* May 21: Review deadline
-* May 22: Notification of authors
-* June 21: Submission of camera-ready Extended Abstracts
+* April 30: Submission of Extended Abstracts
+* May 05:  Reviews are given out
+* May 28: Review deadline
+* May 29: Notification of authors
+* June 28: Submission of camera-ready Extended Abstracts
 * July 17 and 18: SeReCo Summer Workshop 2023
 
 All dates are CET.
