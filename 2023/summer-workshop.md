@@ -20,7 +20,7 @@ The Workshop will be hosted on 17th and 18th of July 2023 in Waischenfeld, Germa
 * Submission is done through [EasyChair](https://easychair.org/conferences/?conf=sereco2023).
 
 ### Review
-We plan to do a single-blind review process among the participants as an exercise. We will assign three Extended Abstracts for every participant to review.
+We plan to do a single-blind review process among the participants as an exercise. We will assign two Extended Abstracts for every participant to review.
 
 The review criteria are:
 * Clarity of the problem statement
