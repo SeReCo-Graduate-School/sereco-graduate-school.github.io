@@ -31,7 +31,7 @@ The workshop is located at [Campus Région numérique](https://campusnumerique.a
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="presentation"><a href="schraudner.pdf">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</a></td>
+    <td class="presentation"><a href="schraudner.pdf">A RESTful Interaction Model for Semantic Digital Twins (Daniel Schraudner)</a></td>
   </tr>
   <tr>
     <td>11h00</td>
