@@ -179,3 +179,7 @@ nav {
     color: #FFFFFF !important;
     text-decoration: none !important;
   }
+
+table {
+    border-collapse: separate!;
+}
