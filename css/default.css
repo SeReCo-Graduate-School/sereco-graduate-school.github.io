@@ -181,5 +181,5 @@ nav {
   }
 
 table {
-    border-collapse: separate!;
+    border-collapse: separate !important;
 }
