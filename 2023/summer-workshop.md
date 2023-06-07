@@ -85,7 +85,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="admin">Coffee Break</td>
   </tr>
   <tr>
-  <tr>
     <td>10:30</td>
     <td class="presentation">
       <p>Distributed Complex Event Detection with Resource-oriented Stream Containers</p>
