@@ -67,7 +67,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>09:15</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>Mouloud Iferroudjene</p>
       <p>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_668_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -76,7 +75,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>09:45</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>A Natural Language Interface for IoT Systems using the Web of Things Specification</p>
       <p>Zhou Gui</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -90,7 +88,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>10:30</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>Distributed Complex Event Detection with Resource-oriented Stream Containers</p>
       <p>Daniel Schraudner</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -106,7 +103,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>13:00</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>Enable Decentralised Semantic Content Negotiation through Equivalence Links</p>
       <p>Yousouf Taghzouti</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_4140_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -115,7 +111,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>13:30</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>???</p>
       <p>Danai Vachtsevanou</p>
       Slides
@@ -155,7 +150,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>09:00</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>A RESTful Read-Write Linked Data WoT Mediator for Enhanced IoT Data Interoperability</p>
       <p>Michael Freund</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -164,7 +158,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>09:30</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building.</p>
       <p>Zehor Hounas</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -196,7 +189,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>13:00</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
       <p>Daniel Henselmann<p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
@@ -205,7 +197,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>13:30</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>???</p>
       <p>Jérémy Lemée</p>
       Slides
@@ -214,7 +205,6 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
     <td>14:00</td>
     <td class="presentation">
-      <p>Presentation</p>
       <p>???</p>
       <p>Christoph Braun</p>
       Slides
