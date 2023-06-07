@@ -50,6 +50,11 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
 
 ## Preliminary Program
 
+<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/all.pdf">Proceedings</a>
+<p><small>Note: The PDFs are password-protected. All registered participants should have received the password via E-Mail.</small></p>
+
+<p>The presentations time slots will be 20 min presentation + 10 min for questions.</p>
+
 <table class="agenda">
   <tr>
     <th></th>
@@ -61,7 +66,21 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>09:15</td>
-    <td class="presentation">Presentations</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>Mouloud Iferroudjene</p>
+      <p>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_668_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
+  </tr>
+  <tr>
+    <td>09:45</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>A Natural Language Interface for IoT Systems using the Web of Things Specification</p>
+      <p>Zhou Gui</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
   </tr>
   <tr>
     <td>10:15</td>
@@ -70,7 +89,12 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   <tr>
   <tr>
     <td>10:30</td>
-    <td class="presentation">Presentations</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>Distributed Complex Event Detection with Resource-oriented Stream Containers</p>
+      <p>Daniel Schraudner</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
   </tr>
     <td>11:00</td>
     <td class="highlight">Keynote (Speaker: <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a>)</td>
@@ -81,11 +105,25 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>13:00</td>
-    <td class="presentation">Presentations</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>Enable Decentralised Semantic Content Negotiation through Equivalence Links</p>
+      <p>Yousouf Taghzouti</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_4140_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
   </tr>
   <tr>
     <td>13:30</td>
-    <td class="presentation">Poster Session</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>???</p>
+      <p>Danai Vachtsevanou</p>
+      Slides
+    </td>
+  </tr>
+  <tr>
+    <td>14:00</td>
+    <td class="presentation">Discussions in Breakout Groups</td>
   </tr>
   <tr>
     <td>15:00</td>
@@ -116,30 +154,74 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
   </tr>
   <tr>
     <td>09:00</td>
-    <td class="presentation">Presentations</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>A RESTful Read-Write Linked Data WoT Mediator for Enhanced IoT Data Interoperability</p>
+      <p>Michael Freund</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
+  </tr>
+  <tr>
+    <td>09:30</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building.</p>
+      <p>Zehor Hounas</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
   </tr>
   <tr>
     <td>10:00</td>
     <td class="admin">Coffee Break</td>
   </tr>
   <tr>
-    <td>10:15</td>
-    <td class="presentation">Presentations</td>
+    <td>10:30</td>
+    <td class="presentation">
+      <p>Poster Session</p>
+      <ul>
+        <li>Jérémy Lemée</li>
+        <li>Justus Fries</li>
+        <li>Marco Hauff</li>
+        <li>Mouloud Iferroudjene</li>
+        <li>Rene Dorsch</li>
+        <li>Tim Strobel</li>
+        <li>Zehor Hounas</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td>11:15</td>
-    <td class="highlight">Keynote (Speaker: tbd)</td>
-  </tr>
-  <tr>
-    <td>12:15</td>
+    <td>12:00</td>
     <td class="admin">Lunch</td>
   </tr>
   <tr>
-    <td>13:15</td>
-    <td class="presentation">Presentations</td>
+    <td>13:00</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
+      <p>Daniel Henselmann<p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
   </tr>
   <tr>
-    <td>13:45</td>
+    <td>13:30</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>???</p>
+      <p>Jérémy Lemée</p>
+      Slides
+    </td>
+  </tr>
+  <tr>
+    <td>14:00</td>
+    <td class="presentation">
+      <p>Presentation</p>
+      <p>???</p>
+      <p>Christoph Braun</p>
+      Slides
+    </td>
+  </tr>
+  <tr>
+    <td>14:30</td>
     <td class="presentation">Discussions in Breakout Groups</td>
   </tr>
   <tr>
