@@ -92,6 +92,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
+  <tr>
     <td>11:00</td>
     <td class="highlight">Keynote (Speaker: <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a>)</td>
   </tr>
