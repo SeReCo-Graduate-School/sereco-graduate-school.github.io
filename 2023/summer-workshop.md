@@ -69,7 +69,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Mouloud Iferroudjene</p>
       <p>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_668_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_668_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>A Natural Language Interface for IoT Systems using the Web of Things Specification</p>
       <p>Zhou Gui</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Distributed Complex Event Detection with Resource-oriented Stream Containers</p>
       <p>Daniel Schraudner</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -105,11 +105,19 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Enable Decentralised Semantic Content Negotiation through Equivalence Links</p>
       <p>Yousouf Taghzouti</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_4140_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_4140_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
     <td>13:30</td>
+    <td class="presentation">
+      <p>Enable Decentralised Semantic Content Negotiation through Equivalence Links</p>
+      <p>Justus Fries</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_1137_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+    </td>
+  </tr>
+  <tr>
+    <td>14:00</td>
     <td class="presentation">
       <p>???</p>
       <p>Danai Vachtsevanou</p>
@@ -117,15 +125,15 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     </td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>14:30</td>
     <td class="presentation">Discussions in Breakout Groups</td>
   </tr>
   <tr>
-    <td>15:00</td>
+    <td>15:30</td>
     <td class="admin">Coffee Break</td>
   </tr>
   <tr>
-    <td>15:30</td>
+    <td>16:00</td>
     <td class="presentation">Discussions in Breakout Groups</td>
   </tr>
   <tr>
@@ -152,7 +160,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>A RESTful Read-Write Linked Data WoT Mediator for Enhanced IoT Data Interoperability</p>
       <p>Michael Freund</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -160,7 +168,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building.</p>
       <p>Zehor Hounas</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -172,13 +180,12 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Poster Session</p>
       <ul>
-        <li>Jérémy Lemée</li>
-        <li>Justus Fries</li>
-        <li>Marco Hauff</li>
-        <li>Mouloud Iferroudjene</li>
-        <li>Rene Dorsch</li>
-        <li>Tim Strobel</li>
-        <li>Zehor Hounas</li>
+        <li>Jérémy Lemée</br>???</br>Poster</li>
+        <li>Marco Hauff</br>Agent-based Modeling of Dynamic Events: Emergency Evacuation of a Large Educational Institution</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_3697_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
+        <li>Mouloud Iferroudjene</br>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
+        <li>Rene Dorsch</br>Where are the Thing Descriptions of the Things? A Service Discovery-based Approach for Thing Description Generation</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7755_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
+        <li>Tim Strobel</br>Automated Root Cause Analysis for Manufacturing Processes using Semantic Technologies</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_5751_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
+        <li>Zehor Hounas</br>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
       </ul>
     </td>
   </tr>
@@ -191,7 +198,7 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
       <p>Daniel Henselmann<p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/	SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
