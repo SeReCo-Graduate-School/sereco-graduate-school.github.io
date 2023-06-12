@@ -180,12 +180,12 @@ The workshop is located at [Forschungscampus Waischenfeld, Fraunhofer-Institut f
     <td class="presentation">
       <p>Poster Session</p>
       <ul>
-        <li>Jérémy Lemée</br>???</br>Poster</li>
-        <li>Marco Hauff</br>Agent-based Modeling of Dynamic Events: Emergency Evacuation of a Large Educational Institution</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_3697_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
-        <li>Mouloud Iferroudjene</br>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
-        <li>Rene Dorsch</br>Where are the Thing Descriptions of the Things? A Service Discovery-based Approach for Thing Description Generation</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7755_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
-        <li>Tim Strobel</br>Automated Root Cause Analysis for Manufacturing Processes using Semantic Technologies</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_5751_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
-        <li>Zehor Hounas</br>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building</br><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</li>
+        <li><p>???</p><p>Jérémy Lemée</p><p>Poster</p></li>
+        <li><p>Agent-based Modeling of Dynamic Events: Emergency Evacuation of a Large Educational Institution</p><p>Marco Hauff</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_3697_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
+        <li><p>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</p><p>Mouloud Iferroudjene</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
+        <li><p>Where are the Thing Descriptions of the Things? A Service Discovery-based Approach for Thing Description Generation</p><p>Rene Dorsch</p<p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7755_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
+        <li><p>Automated Root Cause Analysis for Manufacturing Processes using Semantic Technologies</p><p>Tim Strobel</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_5751_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
+        <li><p>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building</p><p>Zehor Hounas</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
       </ul>
     </td>
   </tr>
