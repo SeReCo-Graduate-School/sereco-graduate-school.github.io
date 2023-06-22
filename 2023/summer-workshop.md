@@ -66,11 +66,11 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <th></th>
     <th>Sunday (July 16, 2023)</th>
-  </tr
+  </tr>
   <tr>
     <td>17:00</td>
     <td class="highlight">
-      <p>Social Event - Hike (ca. 60 min) to [Held brewery](http://www.held-braeu.de/) in Oberailsfeld</p>
+      <p>Social Event - Hike (ca. 60 min) to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a></p>
       <p>Meeting point in front of main entrance of Forschungscampus</p>
     </td>
   </tr>
@@ -221,7 +221,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>13:00</td>
     <td class="presentation">
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
-      <p>Daniel Henselmann (Chair: TBA)<p>
+      <p>Daniel Henselmann (Chair: TBA)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
