@@ -70,7 +70,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>17:00</td>
     <td class="highlight">
-      <p>Social Event - Hike (ca. 60 min) to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a></p>
+      <p>Social Event: we hike together to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a> (about 60 min each direction)</p>
       <p>Meeting point in front of main entrance of Forschungscampus</p>
     </td>
   </tr>
