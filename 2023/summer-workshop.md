@@ -41,7 +41,7 @@ We will publish your Extended Abstracts on this website.
 
 All dates are CET.
 
-You are welcome to arrive on Sunday, July 16, in the afternoon as our workshop starts on Monday morning. You are invited to our small social gathering in the evening, see programm below.
+You are welcome to arrive on Sunday, July 16, in the afternoon as our workshop starts on Monday morning. If you choose to do so, you are invited to join our social gathering / hike on Sunday evening, see programm below.
 
 
 ## Location
@@ -55,7 +55,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
 * [Sebastian Schmid](https://www.ti.rw.fau.de/person/sebastian-schmid/), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [Daniel Schraudner](https://www.ti.rw.fau.de/person/daniel-schraudner/), Friedrich-Alexander-Universität Erlangen-Nürnberg
 
-## Preliminary Program
+## Program
 
 <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/all.pdf">Proceedings</a>
 <p><small>Note: The PDFs are password-protected. All registered participants should have received the password via E-Mail.</small></p>
@@ -71,7 +71,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>17:00</td>
     <td class="highlight">
       <p>Social Event: we hike together to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a> (about 60 min each direction)</p>
-      <p>Meeting point in front of main entrance of Forschungscampus</p>
+      <p>Meeting point in front of main entrance of Forschungscampus (Chair: Daniel Schraudner)</p>
     </td>
   </tr>
 </table>
