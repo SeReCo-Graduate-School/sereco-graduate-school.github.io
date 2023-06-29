@@ -221,7 +221,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>13:00</td>
     <td class="presentation">
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
-      <p>Daniel Henselmann (Chair: TBA)</p>
+      <p>Daniel Henselmann (Chair: Thamer Mecharnia)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -229,7 +229,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>13:30</td>
     <td class="presentation">
       <p>???</p>
-      <p>Jérémy Lemée (Chair: TBA)</p>
+      <p>Jérémy Lemée (Chair: Thamer Mecharnia)</p>
       Slides
     </td>
   </tr>
