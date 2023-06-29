@@ -140,9 +140,9 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>14:00</td>
     <td class="presentation">
-      <p>???</p>
-      <p>Danai Vachtsevanou (Chair: TBA)</p>
-      Slides
+      <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
+      <p>Daniel Henselmann (Chair: TBA)</p>
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
   <tr>
@@ -220,21 +220,13 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>13:00</td>
     <td class="presentation">
-      <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
-      <p>Daniel Henselmann (Chair: Thamer Mecharnia)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
-    </td>
-  </tr>
-  <tr>
-    <td>13:30</td>
-    <td class="presentation">
       <p>???</p>
       <p>Jérémy Lemée (Chair: Thamer Mecharnia)</p>
       Slides
     </td>
   </tr>
   <tr>
-    <td>14:00</td>
+    <td>13:30</td>
     <td class="presentation">
       <p>Discussions in Breakout Groups (Chair: Michael Freund)</p>
       <p>"The impact and relation of my research to the field of [Semantics | Reasoning | Coordination]."</p>
