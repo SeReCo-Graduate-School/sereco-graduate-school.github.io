@@ -125,7 +125,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>13:00</td>
     <td class="presentation">
       <p>Enable Decentralised Semantic Content Negotiation through Equivalence Links</p>
-      <p>Yousouf Taghzouti (Chair: TBA)</p>
+      <p>Yousouf Taghzouti (Chair: Tobias Käfer)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_4140_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -141,7 +141,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>14:00</td>
     <td class="presentation">
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
-      <p>Daniel Henselmann (Chair: TBA)</p>
+      <p>Daniel Henselmann (Chair: Tobias Käfer)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -183,7 +183,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>09:00</td>
     <td class="presentation">
       <p>A RESTful Read-Write Linked Data WoT Mediator for Enhanced IoT Data Interoperability</p>
-      <p>Michael Freund (Chair: TBA)</p>
+      <p>Michael Freund (Chair: Thamer Mecharnia)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -191,7 +191,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>09:30</td>
     <td class="presentation">
       <p>A hybrid approach of semantic modeling and co-simulation for a better consideration of physical phenomena in a smart building.</p>
-      <p>Zehor Hounas (Chair: TBA)</p>
+      <p>Zehor Hounas (Chair: Thamer Mecharnia)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -202,9 +202,8 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>10:30</td>
     <td class="presentation">
-      <p>Poster Session (Chair: TBA)</p>
+      <p>Poster Session (Chair: Thamer Mecharnia)</p>
       <ul>
-        <li><p>???</p><p>Jérémy Lemée</p><p>Poster</p></li>
         <li><p>Agent-based Modeling of Dynamic Events: Emergency Evacuation of a Large Educational Institution</p><p>Marco Hauff</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_3697_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
         <li><p>FB15k-CVT: A Challenging Dataset for Knowledge Graph Embedding Models</p><p>Mouloud Iferroudjene</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7099_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
         <li><p>Where are the Thing Descriptions of the Things? A Service Discovery-based Approach for Thing Description Generation</p><p>Rene Dorsch</p><p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7755_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Poster</p></li>
@@ -220,24 +219,16 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>13:00</td>
     <td class="presentation">
-      <p>???</p>
-      <p>Jérémy Lemée (Chair: Thamer Mecharnia)</p>
-      Slides
-    </td>
-  </tr>
-  <tr>
-    <td>13:30</td>
-    <td class="presentation">
       <p>Discussions in Breakout Groups (Chair: Michael Freund)</p>
       <p>"The impact and relation of my research to the field of [Semantics | Reasoning | Coordination]."</p>
     </td>
   </tr>
   <tr>
-    <td>15:15</td>
+    <td>15:00</td>
     <td class="admin">Closing Session (Chairs: Michael Freund, Daniel Schraudner)</td>
   </tr>
   <tr>
-    <td>15:30</td>
+    <td>15:15</td>
     <td>End</td>
   </tr>
 </table>
