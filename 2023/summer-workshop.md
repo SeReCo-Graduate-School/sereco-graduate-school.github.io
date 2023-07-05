@@ -2,8 +2,7 @@
 ---
 # SeReCo Summer Workshop 2023
 
-## Call for Extended Abstracts (closed)
-We invite you to submit Extended Abstracts of your work for the Summer Workshop 2023 of the Doctoral College for Semantics, Reasoning and Coordination.
+We invite you to join the Summer Workshop 2023 of the Doctoral College for Semantics, Reasoning and Coordination. 
 
 The Workshop will be hosted on 17th and 18th of July 2023 in Waischenfeld, Germany, and is open to all PhD students of the participating organizations:
 
@@ -13,25 +12,6 @@ The Workshop will be hosted on 17th and 18th of July 2023 in Waischenfeld, Germa
 * Karlsruhe Institute of Technology (KIT)
 * Universität St. Gallen
 
-### Submission (closed)
-* Please submit an Extended Abstract for presentations as well as for posters (or both if you registered for both)
-* Your Extended Abstract must be written in English and not exceed two pages (excluding references)
-* Submissions must be in PDF, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see [Springer’s Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
-* Submission is done through [EasyChair](https://easychair.org/conferences/?conf=sereco2023).
-
-### Review
-We plan to do a single-blind review process among the participants as an exercise. We will assign two Extended Abstracts for every participant to review.
-
-The review criteria are:
-* Clarity of the problem statement
-* Suitability of the proposed approach
-* Soundness
-* Quality of preliminary results (if any)
-* Structure and style of the paper
-
-### Publication
-We will publish your Extended Abstracts on this website.
-
 ### Dates
 * <s>April 30: Submission of Extended Abstracts</s>
 * <s>May 05:  Reviews are given out</s>
@@ -39,10 +19,15 @@ We will publish your Extended Abstracts on this website.
 * <s>May 29: Notification of authors</s>
 * July 17 and 18: SeReCo Summer Workshop 2023
 
-All dates are CET.
-
 You are welcome to arrive on Sunday, July 16, in the afternoon as our workshop starts on Monday morning. If you choose to do so, you are invited to join our social gathering / hike on Sunday evening, see programm below.
 
+## Keynote
+We are excited to announce <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a> as keynote speaker for SeReCo 2023.
+
+<b>Title:</b> Synthesising Provably Correct Programs for Cyber-Physical Systems
+
+<b>Abstract:</b>
+In this talk, I will present some recent work on the synthesis of provably correct programs for autonomous cyber-physical systems. I will explain how behaviour specifications and cyber-physical resources, such as robots, can be formalised, and describe a technique for synthesising a program capable of orchestrating the behaviours of the resources to realise the desired behaviour. Critically, the synthesised program is (provably) correct by construction, and able to realise all instantiations of the desired behaviour.
 
 ## Location
 
@@ -70,8 +55,8 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>17:00</td>
     <td class="highlight">
-      <p>Social Event: we hike together to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a> (about 60 min each direction)</p>
-      <p>Meeting point in front of main entrance of Forschungscampus (Chair: Daniel Schraudner)</p>
+      <p>Social Event: we plan to hike together to <a href="http://www.held-braeu.de/">Held brewery in Oberailsfeld</a> (about 60 min each direction)</p>
+      <p>Our meeting point will be in front of the main entrance of Forschungscampus Waischenfeld (Chair: Daniel Schraudner)</p>
     </td>
   </tr>
 </table>
@@ -133,7 +118,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>13:30</td>
     <td class="presentation">
       <p>Towards Safety Verification for Web of Things Systems</p>
-      <p>Justus Fries (Chair: TBA)</p>
+      <p>Justus Fries (Chair: Tobias Käfer)</p>
       <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_1137_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
     </td>
   </tr>
@@ -148,8 +133,8 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>14:30</td>
     <td class="presentation">
-      <p>Discussions in Breakout Groups (Chair: Michael Freund)</p>
-      <p>"The impact and relation of my research to the field of [Semantics | Reasoning | Coordination]."</p>
+      <p>Discussions in Breakout Groups: "Academic Speed Dating", Session 1 (Chair: Michael Freund)</p>
+      <p>The impact and relation of my research to the field of [Semantics | Reasoning | Coordination]."</p>
     </td>
   </tr>
   <tr>
@@ -158,7 +143,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   </tr>
   <tr>
     <td>16:00</td>
-    <td class="presentation">Discussions in Breakout Groups (Chair: Michael Freund)</td>
+    <td class="presentation">Discussions in Breakout Groups: "Academic Speed Dating", Session 2 (Chair: Michael Freund)</td>
   </tr>
   <tr>
     <td>17:00</td>
@@ -219,8 +204,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   <tr>
     <td>13:00</td>
     <td class="presentation">
-      <p>Discussions in Breakout Groups (Chair: Michael Freund)</p>
-      <p>"The impact and relation of my research to the field of [Semantics | Reasoning | Coordination]."</p>
+      <p>Discussions in Breakout Groups: Ad-hoc Demos and open discussion (Chair: Michael Freund)</p>
     </td>
   </tr>
   <tr>
@@ -232,3 +216,25 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td>End</td>
   </tr>
 </table>
+
+## Call for Extended Abstracts (closed)
+We invite you to submit Extended Abstracts of your work for the Summer Workshop 2023 of the Doctoral College for Semantics, Reasoning and Coordination.
+
+### Submission (closed)
+* Please submit an Extended Abstract for presentations as well as for posters (or both if you registered for both)
+* Your Extended Abstract must be written in English and not exceed two pages (excluding references)
+* Submissions must be in PDF, formatted in the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS). For details on the LNCS style, see [Springer’s Author Instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+* Submission is done through [EasyChair](https://easychair.org/conferences/?conf=sereco2023).
+
+### Review (closed)
+We plan to do a single-blind review process among the participants as an exercise. We will assign two Extended Abstracts for every participant to review.
+
+The review criteria are:
+* Clarity of the problem statement
+* Suitability of the proposed approach
+* Soundness
+* Quality of preliminary results (if any)
+* Structure and style of the paper
+
+### Publication
+We will publish your Extended Abstracts on this website.
