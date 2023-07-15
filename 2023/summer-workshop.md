@@ -83,7 +83,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td class="presentation">
       <p>A Natural Language Interface for IoT Systems using the Web of Things Specification</p>
       <p>Zhou Gui (Chair: Andreas Harth)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_7639_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/Gui.pdf">Slides</a>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td class="presentation">
       <p>Distributed Complex Event Detection with Resource-oriented Stream Containers</p>
       <p>Daniel Schraudner (Chair: Andreas Harth)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_2875_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/Schraudner.pdf">Slides</a>
     </td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td class="presentation">
       <p>Towards Safety Verification for Web of Things Systems</p>
       <p>Justus Fries (Chair: Tobias Käfer)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_1137_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_1137_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/Fries.pdf">Slides</a>
     </td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td class="presentation">
       <p>Towards Sharing and Retrieving Product Carbon Footprint Data Along Supply Chain Graphs Using Decentralized Linked Data</p>
       <p>Daniel Henselmann (Chair: Tobias Käfer)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8990_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/Henselmann.pdf">Slides</a>
     </td>
   </tr>
   <tr>
@@ -155,7 +155,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   </tr>
   <tr>
     <td>19:00</td>
-    <td class="highlight">Social Event (Chair: Michael Freund, Daniel Schraudner)</td>
+    <td class="highlight">Social Event: Pub Quiz (Chair: Michael Freund, Daniel Schraudner)</td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
     <td class="presentation">
       <p>A RESTful Read-Write Linked Data WoT Mediator for Enhanced IoT Data Interoperability</p>
       <p>Michael Freund (Chair: Thamer Mecharnia)</p>
-      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;Slides
+      <a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-preprints/SeReCo_2023_paper_8333_reviews.pdf">Paper</a>&nbsp;&nbsp;&nbsp;<a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/Freund.pdf">Slides</a>
     </td>
   </tr>
   <tr>
