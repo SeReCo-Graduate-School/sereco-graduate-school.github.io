@@ -143,6 +143,10 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   </tr>
   <tr>
     <td>16:00</td>
+    <td class="admin">Group Photo (at main entrance)</td>
+  </tr>
+  <tr>
+    <td>16:05</td>
     <td class="presentation">Discussions in Breakout Groups: "Academic Speed Dating", Session 2 (Chair: Michael Freund)</td>
   </tr>
   <tr>
