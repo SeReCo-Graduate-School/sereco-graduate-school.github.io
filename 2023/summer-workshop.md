@@ -100,7 +100,7 @@ We recommend you to take a taxi, e.g. if you arrive via Nuremberg main railway s
   </tr>
   <tr>
     <td>11:00</td>
-    <td class="highlight">Keynote (Speaker: <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a>) (Chair: Andreas Harth)</td>
+    <td class="highlight"><p>Keynote (Speaker: <a target="_blank" href="https://alechina-logan.net/brian/">Brian Logan</a>) (Chair: Andreas Harth)</p><a href="https://paul.ti.rw.fau.de/~pi69geby/sereco-slides/logan.pdf">Slides</a></td>
   </tr>
   <tr>
     <td>12:00</td>
