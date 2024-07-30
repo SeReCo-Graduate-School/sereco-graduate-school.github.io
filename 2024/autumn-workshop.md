@@ -58,9 +58,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
       <p>Chair: Christoph Braun</p>
     </td>
   </tr>
-</table>
-
-<table class="agenda">
+  <tr></tr>
   <tr>
     <th></th>
     <th>Thursday (October 17, 2024)</th>
@@ -124,16 +122,14 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td>18:30</td>
     <td class="highlight">Dinner + Social Evening</td>
   </tr>
-</table>
-
-<table class="agenda">
+  <tr></tr>
   <tr>
     <th></th>
     <th>Friday (October 18, 2024)</th>
   </tr>
    <tr>
     <td>09:00</td>
-<td class="presentation">
+    <td class="presentation">
       <p>Se-Re-Co content session: presentations, posters, discussions, ...</p>
       <p>Chair: Christoph Braun</p>
     </td>
