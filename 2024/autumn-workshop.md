@@ -54,8 +54,8 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   <tr>
     <td>18:00</td>
     <td class="highlight">
-      <p>Social Gathering: Drinks (and food) at a some place in the city.</p> 
-      <p>Chair: Christoph; Place presumeably <a target="_blank" href="https://maps.app.goo.gl/PRsVYxzYcMpLpuqw7">Oxford Pub</a></p>
+      <p>Social Gathering: Drinks (and food) at a some place in the city, presumeably <a target="_blank" href="https://maps.app.goo.gl/PRsVYxzYcMpLpuqw7">Oxford Pub</a>.</p> 
+      <p>Chair: Christoph Braun</p>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   </tr>
   <tr>
     <td>13:30</td>
-    <td class="presentation">
+    <td class="highlight">
       <p>Field trip to <a target="_blank" href="https://www.karlsruher-forschungsfabrik.de/en.html">Karlsruhe Research Factory for AI-integrated Production</a></p>
       <p>Chair: Tobias Käfer</p>
     </td>
@@ -122,7 +122,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   </tr>
   <tr>
     <td>18:30</td>
-    <td class="admin">Dinner + Social Evening</td>
+    <td class="highlight">Dinner + Social Evening</td>
   </tr>
 </table>
 
