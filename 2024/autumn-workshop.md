@@ -77,7 +77,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Reasoning</i></p>
       <p>Set encoding for Large Language Models
-      </br>
+      <br>
       Speaker: Lukas Kinder</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -87,7 +87,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
     <p><i>Reasoning</i></p>
       <p>Root Cause Analysis using Semantic Web Technologies
-      </br>
+      <br>
       Speaker: Tim Strobel</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -101,7 +101,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Coordination</i></p>
       <p>Enabling Adaptation in Dynamic Manufacturing Environments with Decentralized Agent-Based Systems and Local Perception
-      </br>
+      <br>
       Speaker: Sebastian Schmid</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -110,7 +110,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td>11:00</td>
     <td class="highlight">
       <p>Keynote
-      </br>
+      <br>
       Speaker: <a target="_blank" href="https://logic.kastel.kit.edu/andre.html">André Platzer</a></p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
@@ -124,7 +124,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Coordination</i></p>
       <p>A Normative Agent-Centric Approach to Regulate Manufacturing Process
-      </br>
+      <br>
       Speaker: Elena Yan</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -165,7 +165,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p>Se-Re-Co</p>
       <p> to be announced 
-      </br>
+      <br>
       Speaker: to be announced</p>
       <!-- <p>Speaker: Nicholas Popovic</p> -->
       <p>(Chair: Christoph Braun)</p>
@@ -176,7 +176,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Building Ontologies from Implicit User Knowledge
-      </br>
+      <br>
       Speaker: David Haller</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -190,7 +190,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Web of Things (WoT) session
-      </br>
+      <br>
       Speakers: Zhou Gui, Rene Dorsch, Michael Freund</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -200,7 +200,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Supply Network Analysis in Knowledge Graphs
-      </br>
+      <br>
       Speaker: Daniel Henselmann</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
@@ -214,7 +214,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Delegation in the Solid Dataspace
-      </br>
+      <br>
       Speaker: Daniel Schraudner</p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
@@ -224,7 +224,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Zero-Knowledge Proofs on RDF datasets
-      </br>
+      <br>
       Speaker: Christoph Braun</p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
