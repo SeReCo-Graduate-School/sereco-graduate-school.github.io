@@ -75,7 +75,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   <tr>
     <td>09:15</td>
     <td class="presentation">
-      <p><b>Re</b>soning</p>
+      <p><b>Re</b>asoning</p>
       <p>Set encoding for Large Language Models</p>
       <p>Speaker: Lukas Kinder</p>
       <p>(Chair: Christoph Braun)</p>
@@ -84,7 +84,7 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   <tr>
     <td>09:45</td>
     <td class="presentation">
-    <p><b>Re</b>soning</p>
+    <p><b>Re</b>asoning</p>
       <p>Root Cause Analysis using Semantic Web Technologies</p>
       <p>Speaker: Tim Strobel</p>
       <p>(Chair: Christoph Braun)</p>
