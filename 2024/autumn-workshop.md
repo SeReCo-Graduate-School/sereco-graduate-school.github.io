@@ -35,9 +35,11 @@ Prof. Platzer pursues this challenge with the principled design of programming l
 
 ## Location
 
-The workshop is located at [TRIANGEL Karlsruhe](https://www.triangel.space/): **Kaiserstr. 93** in **76131 Karlsruhe, Germany**.
-This is right next to Kronenplatz station.
-Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directions.
+The workshop is located at our [Institute of Applied Informatics and Formal Description Methods (AIFB)](https://www.aifb.kit.edu/english/126.php): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor).
+To enter the building, please call one of the local organisers.
+
+Take a look at the [map](https://maps.app.goo.gl/vyGzSYhD3VKjHybc7) for directions.
+Our building is right next to Kronenplatz station.
 
 ## Local organization
 
@@ -153,7 +155,10 @@ Take a look at the [map](https://maps.app.goo.gl/7WrTk5fSvrxUsEjg9) for directio
   </tr>
   <tr>
     <td>18:15</td>
-    <td class="highlight">Dinner + Social Evening</td>
+    <td class="highlight">
+     <p>Dinner + Social Evening</p>
+     <p>at <a target="_blank" href="https://maps.app.goo.gl/2YQcuuZomSihWzax5">Vogelbräu Karlsruhe</a> which is closeby</p>
+    </td>
   </tr>
   <tr></tr>
   <tr>
