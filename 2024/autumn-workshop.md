@@ -16,8 +16,8 @@ The Workshop will be hosted on 17th and 18th of October 2024 in Karlsruhe, Germa
 ### Dates
 
 - <s>June 30: Registration closes</s>
-- July 30: Call for presentation abstracts sent out
-- August 16: Finalisation of program
+- <s>July 30: Call for presentation abstracts sent out</s>
+- <s>August 16: Finalisation of program</s>
 - October 17 and 18: SeReCo Autumn Workshop 2024
 
 You are welcome to arrive on Wednesday, October 16, in the afternoon as our workshop starts on the following morning.
@@ -35,7 +35,7 @@ Prof. Platzer pursues this challenge with the principled design of programming l
 
 ## Location
 
-The workshop is located at our [Institute of Applied Informatics and Formal Description Methods (AIFB)](https://www.aifb.kit.edu/english/126.php): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor).
+The workshop is located at our [Institute of Applied Informatics and Formal Description Methods (AIFB)](https://www.aifb.kit.edu/english/126.php): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor in the A Wing).
 To enter the building, please call one of the local organisers.
 
 Take a look at the [map](https://maps.app.goo.gl/vyGzSYhD3VKjHybc7) for directions.
@@ -59,7 +59,7 @@ Our building is right next to Kronenplatz station.
     <td>18:00</td>
     <td class="highlight">
       <p>Social Gathering: Drinks (and food) at a some place in the city, presumeably <a target="_blank" href="https://maps.app.goo.gl/PRsVYxzYcMpLpuqw7">Oxford Pub</a>.</p> 
-      <p>Chair: Christoph Braun</p>
+      <p>(Chair: Christoph Braun)</p>
     </td>
   </tr>
   <tr></tr>
@@ -71,17 +71,17 @@ Our building is right next to Kronenplatz station.
     <td>09:00</td>
     <td class="admin">
       <p>Opening Session</p>
-      <p>Chair: Tobias Käfer</p>
+      <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
     <td>09:15</td>
     <td class="presentation">
-      <p><i>Reasoning</i></p>
+      <p><i>Semantics</i></p>
       <p>Set encoding for Large Language Models
       <br>
       Speaker: Lukas Kinder</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Antoine Zimmermann)</p>
     </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Our building is right next to Kronenplatz station.
       <p>Root Cause Analysis using Semantic Web Technologies
       <br>
       Speaker: Tim Strobel</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Antoine Zimmermann)</p>
     </td>
   </tr>
   <tr>
@@ -105,12 +105,13 @@ Our building is right next to Kronenplatz station.
       <p>Enabling Adaptation in Dynamic Manufacturing Environments with Decentralized Agent-Based Systems and Local Perception
       <br>
       Speaker: Sebastian Schmid</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
     <td>11:00</td>
     <td class="highlight">
+      <p><i>SeReCo</i></p>
       <p>Keynote
       <br>
       Speaker: <a target="_blank" href="https://logic.kastel.kit.edu/andre.html">André Platzer</a></p>
@@ -128,7 +129,7 @@ Our building is right next to Kronenplatz station.
       <p>A Normative Agent-Centric Approach to Regulate Manufacturing Process
       <br>
       Speaker: Elena Yan</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Daniel Schraudner)</p>
     </td>
   </tr>
   <tr>
@@ -145,7 +146,7 @@ Our building is right next to Kronenplatz station.
   <tr>
     <td>16:30</td>
     <td class="presentation">
-      <p>Academic speed dating / discussion / ideation session - hot topics of SeReCo</p>
+      <p>Academic speed dating / discussion / ideation session - hot topics of SeReCo / follow-up discussions</p>
       <p>Chair: Christoph Braun</p>
     </td>
   </tr>
@@ -157,7 +158,7 @@ Our building is right next to Kronenplatz station.
     <td>18:15</td>
     <td class="highlight">
      <p>Dinner + Social Evening</p>
-     <p>at <a target="_blank" href="https://maps.app.goo.gl/2YQcuuZomSihWzax5">Vogelbräu Karlsruhe</a> which is closeby</p>
+     <p>at <a target="_blank" href="https://maps.app.goo.gl/2YQcuuZomSihWzax5">Vogelbräu Karlsruhe</a> which is close-by</p>
     </td>
   </tr>
   <tr></tr>
@@ -168,12 +169,11 @@ Our building is right next to Kronenplatz station.
   <tr>
     <td>09:00</td>
     <td class="presentation">
-      <p>Se-Re-Co</p>
-      <p> to be announced 
+      <p><i>Semantics</i></p>
+      <p>Knowledge Graph-augmented LLMs and LLM-augmented Knowledge Graphs
       <br>
-      Speaker: to be announced</p>
-      <!-- <p>Speaker: Nicholas Popovic</p> -->
-      <p>(Chair: Christoph Braun)</p>
+      Speaker: Nicholas Popovic</p>
+      <p>(Chair: Pierre Maret)</p>
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ Our building is right next to Kronenplatz station.
       <p>Building Ontologies from Implicit User Knowledge
       <br>
       Speaker: David Haller</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Pierre Maret)</p>
     </td>
   </tr>
   <tr>
@@ -194,9 +194,9 @@ Our building is right next to Kronenplatz station.
     <td>10:15</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Web of Things (WoT) session
+      <p>Web of Things (WoT) and Poster session
       <br>
-      Speakers: Zhou Gui, Rene Dorsch, Michael Freund</p>
+      Contributions by: Zhou Gui, Rene Dorsch, Michael Freund, Yuyang Li</p>
       <p>(Chair: Christoph Braun)</p>
     </td>
   </tr>
@@ -207,7 +207,7 @@ Our building is right next to Kronenplatz station.
       <p>Supply Network Analysis in Knowledge Graphs
       <br>
       Speaker: Daniel Henselmann</p>
-      <p>(Chair: Christoph Braun)</p>
+      <p>(Chair: Elena Yan)</p>
     </td>
   </tr>
   <tr>
@@ -217,11 +217,11 @@ Our building is right next to Kronenplatz station.
   <tr>
     <td>13:30</td>
     <td class="presentation">
-      <p><i>Semantics</i></p>
+      <p><i>Coordination</i></p>
       <p>Delegation in the Solid Dataspace
       <br>
       Speaker: Daniel Schraudner</p>
-      <p>(Chair: Tobias Käfer)</p>
+      <p>(Chair: Sebastian Schmid)</p>
     </td>
   </tr>
     <tr>
@@ -231,14 +231,14 @@ Our building is right next to Kronenplatz station.
       <p>Zero-Knowledge Proofs on RDF datasets
       <br>
       Speaker: Christoph Braun</p>
-      <p>(Chair: Tobias Käfer)</p>
+      <p>(Chair: Sebastian Schmid)</p>
     </td>
   </tr>
    <tr>
     <td>14:30</td>
     <td class="presentation">
       <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>Chair: Tobias Käfer</p>
+      <p>(Chair: Tobias Käfer and Christoph Braun)</p>
     </td>
   </tr>
   <tr>
@@ -249,14 +249,14 @@ Our building is right next to Kronenplatz station.
     <td>15:15</td>
     <td class="presentation">
       <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>Chair: Christoph Braun</p>
+      <p>(Chair: Christoph Braun and Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
     <td>16:15</td>
     <td class="admin">
       <p>Closing Session</p>
-      <p>Chair: Tobias Käfer</p>
+      <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
