@@ -58,7 +58,7 @@ Our building is right next to Kronenplatz station.
   <tr>
     <td>18:00</td>
     <td class="highlight">
-      <p>Social Gathering: Drinks (and food) at a some place in the city, presumeably <a target="_blank" href="https://maps.app.goo.gl/PRsVYxzYcMpLpuqw7">Oxford Pub</a>.</p> 
+      <p>Social Gathering: Drinks (and food) at <a target="_blank" href="https://maps.app.goo.gl/f8KA2P8cHBDGgvDR8">Lehners Wirtshaus</a>.</p> 
       <p>(Chair: Christoph Braun)</p>
     </td>
   </tr>
@@ -217,6 +217,17 @@ Our building is right next to Kronenplatz station.
   <tr>
     <td>13:30</td>
     <td class="presentation">
+      <p>Discussion and ideation session - hot topics of SeReCo</p>
+      <p>(Chair: Tobias Käfer and Christoph Braun)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>14:30</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>15:00</td>
+    <td class="presentation">
       <p><i>Coordination</i></p>
       <p>Delegation in the Solid Dataspace
       <br>
@@ -225,7 +236,7 @@ Our building is right next to Kronenplatz station.
     </td>
   </tr>
     <tr>
-    <td>14:00</td>
+    <td>15:30</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
       <p>Zero-Knowledge Proofs on RDF datasets
@@ -234,33 +245,15 @@ Our building is right next to Kronenplatz station.
       <p>(Chair: Sebastian Schmid)</p>
     </td>
   </tr>
-   <tr>
-    <td>14:30</td>
-    <td class="presentation">
-      <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>(Chair: Tobias Käfer and Christoph Braun)</p>
-    </td>
-  </tr>
   <tr>
-    <td>15:00</td>
-    <td class="admin">Coffee Break</td>
-  </tr>
-  <tr>
-    <td>15:15</td>
-    <td class="presentation">
-      <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>(Chair: Christoph Braun and Tobias Käfer)</p>
-    </td>
-  </tr>
-  <tr>
-    <td>16:15</td>
+    <td>16:00</td>
     <td class="admin">
       <p>Closing Session</p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
-    <td>16:30</td>
+    <td>16:15</td>
     <td>End</td>
   </tr>
 </table>
