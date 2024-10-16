@@ -68,30 +68,20 @@ Our building is right next to Kronenplatz station.
     <th>Thursday (October 17, 2024)</th>
   </tr>
   <tr>
-    <td>09:00</td>
+    <td>09:30</td>
     <td class="admin">
       <p>Opening Session</p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
-  <tr>
-    <td>09:15</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Set encoding for Large Language Models
-      <br>
-      Speaker: Lukas Kinder</p>
-      <p>(Chair: Antoine Zimmermann)</p>
-    </td>
-  </tr>
-  <tr>
+ <tr>
     <td>09:45</td>
     <td class="presentation">
-    <p><i>Reasoning</i></p>
-      <p>Root Cause Analysis using Semantic Web Technologies
+      <p><i>Coordination</i></p>
+      <p>A Normative Agent-Centric Approach to Regulate Manufacturing Process
       <br>
-      Speaker: Tim Strobel</p>
-      <p>(Chair: Antoine Zimmermann)</p>
+      Speaker: Elena Yan</p>
+      <p>(Chair: Daniel Schraudner)</p>
     </td>
   </tr>
   <tr>
@@ -122,14 +112,14 @@ Our building is right next to Kronenplatz station.
     <td>12:00</td>
     <td class="admin">Lunch</td>
   </tr>
-  <tr>
+   <tr>
     <td>13:15</td>
     <td class="presentation">
-      <p><i>Coordination</i></p>
-      <p>A Normative Agent-Centric Approach to Regulate Manufacturing Process
+      <p><i>Semantics</i></p>
+      <p>Zero-Knowledge Proofs on RDF datasets
       <br>
-      Speaker: Elena Yan</p>
-      <p>(Chair: Daniel Schraudner)</p>
+      Speaker: Christoph Braun</p>
+      <p>(Chair: Antoine Zimmermann)</p>
     </td>
   </tr>
   <tr>
@@ -235,25 +225,15 @@ Our building is right next to Kronenplatz station.
       <p>(Chair: Sebastian Schmid)</p>
     </td>
   </tr>
-    <tr>
-    <td>15:30</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Zero-Knowledge Proofs on RDF datasets
-      <br>
-      Speaker: Christoph Braun</p>
-      <p>(Chair: Sebastian Schmid)</p>
-    </td>
-  </tr>
   <tr>
-    <td>16:00</td>
+    <td>15:30</td>
     <td class="admin">
       <p>Closing Session</p>
       <p>(Chair: Tobias Käfer)</p>
     </td>
   </tr>
   <tr>
-    <td>16:15</td>
+    <td>15:45</td>
     <td>End</td>
   </tr>
 </table>
