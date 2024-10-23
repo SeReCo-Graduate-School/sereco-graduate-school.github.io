@@ -1,41 +1,81 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>SeReCo | {{ page.title }}</title>
-    <link rel="stylesheet" href="/css/default.css">
-    <link rel="stylesheet" href="/css/bootstrap.css">
-  </head>
-  <body>
-    <header>
-     <div id="serviceswrap"> 
-       <div id="headert">
-      <a href="#">Se<span class="first">mantics</span></a><a href="#">Re<span class="second">asoning</span></a><a href="#">Co<span class="third">ordination</span></a>
-       </div>
-      </div></header>
-    <!--<nav>
-      <a href="/">Home</a>
-    </nav> -->
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark" role="navigation">
 
-  <a class="navbar-brand" href="/">Home</a>|&nbsp;<a class="navbar-brand" href="/2022/spring-workshop">Spring Workshop 2022</a>|&nbsp;<a class="navbar-brand" href="/2023/summer-workshop">Summer Workshop 2023</a>|&nbsp;<a class="navbar-brand" href="/2024/autumn-workshop">Autumn Workshop 2024</a>
+<head>
+  <meta charset="utf-8">
+  <title>SeReCo | {{ page.title }}</title>
+  <link rel="stylesheet" href="/css/default.css">
+  <link rel="stylesheet" href="/css/bootstrap.css">
+  <script src="/js/jquery-3.2.1.slim.min.js"></script>
+  <script src="/js/popper-1.12.9.min.js"></script>
+  <script src="/js/bootstrap-4.0.0.min.js"></script>
+</head>
 
-       </nav>
+<body>
+  <header>
+    <div id="serviceswrap">
+      <div id="headert">
+        <a href="#">Se<span class="first">mantics</span></a><a href="#">Re<span class="second">asoning</span></a><a
+          href="#">Co<span class="third">ordination</span></a>
+      </div>
+    </div>
+  </header>
+  
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarText">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/publications">Publications</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Workshops</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="/2022/spring-workshop">Spring Workshop 2022</a>
+            <a class="dropdown-item" href="/2023/summer-workshop">Summer Workshop 2023</a>
+            <a class="dropdown-item" href="/2024/autumn-workshop">Autumn Workshop 2024</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  
+  <!-- <nav class="navbar navbar-expand-md navbar-dark bg-dark" role="navigation">
+    <a class="navbar-brand" href="/">Home</a>|&nbsp;
+    <a class="navbar-brand" href="/2022/spring-workshop">Spring Workshop
+      2022</a>|&nbsp;
+    <a class="navbar-brand" href="/2023/summer-workshop">Summer Workshop 2023</a>|&nbsp;
+    <a class="navbar-brand" href="/2024/autumn-workshop">Autumn Workshop 2024</a>
+  </nav> -->
 
-    <section id="main">
-      {{ content }}
-    </section>
-    <footer>
-      <p> <div><a href="https://www.dfh-ufa.org/"><img class="logo" src="/img/logo-ufa.png" height="70"></img></a></div>
-        SeReCo is funded by <a href="https://www.dfh-ufa.org/">DFH-UFA (French-German University)</a>.<br><br>
-     <div class="row">   
-    <div><a href="https://www.fau.de/"><img class="logo" src="/img/Friedrich-Alexander-Universität_Erlangen-Nürnberg_logo.svg.png" height="40"></img></a></div>
-    <div><a href="https://www.kit.edu/"><img class="logo" src="/img/Logo_KIT.svg.png" height="60"></img></a></div>
-    <div><a href="https://www.unisg.ch/"><img class="logo" src="/img/Université_de_Saint-Gall_(logo).svg.png" height="40"></img></a></div>
-    <div><a href="https://www.mines-stetienne.fr/"><img class="logo" src="/img/logos-mines-ST.png"  height="80"></img></a></div>
-    <div><a href="https://www.univ-st-etienne.fr/"><img class="logo" src="/img/logo-univ-ste.png"  height="70"></img></a></div>
-     </div>
-      </p>
-    </footer>
-  </body>
+  <section id="main">
+    {{ content }}
+  </section>
+
+  <footer>
+    <p>
+      <div>
+        <a href="https://www.dfh-ufa.org/"><img class="logo" src="/img/logo-ufa.png" height="70"></img></a></div>
+      SeReCo is funded by <a href="https://www.dfh-ufa.org/">DFH-UFA (French-German University)</a>.
+        <br><br>
+        <div class="row">
+          <div><a href="https://www.fau.de/"><img class="logo"
+                src="/img/Friedrich-Alexander-Universität_Erlangen-Nürnberg_logo.svg.png" height="40"></img></a></div>
+          <div><a href="https://www.kit.edu/"><img class="logo" src="/img/Logo_KIT.svg.png" height="60"></img></a></div>
+          <div><a href="https://www.unisg.ch/"><img class="logo" src="/img/Université_de_Saint-Gall_(logo).svg.png"
+                height="40"></img></a></div>
+          <div><a href="https://www.mines-stetienne.fr/"><img class="logo" src="/img/logos-mines-ST.png"
+                height="60"></img></a></div>
+          <div><a href="https://www.univ-st-etienne.fr/"><img class="logo" src="/img/logo-univ-ste.png"
+                height="70"></img></a></div>
+        </div>
+    </p>
+  </footer>
+</body>
+
 </html>

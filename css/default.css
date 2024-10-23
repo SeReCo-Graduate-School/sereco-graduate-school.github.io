@@ -118,7 +118,7 @@ footer a {
 }
 
 #serviceswrap {
-    background: url(../img/fayol-header.png) no-repeat center top;
+    background: linear-gradient(to bottom right, hsl(0, 0%, 80%), hsl(255, 0%, 100%));
     margin-top: -1px;
     padding-top: 20px;
     text-align: center;
@@ -176,13 +176,12 @@ nav {
     vertical-align: text-top;
     font-size: 13px;
     font-weight: 600;
-    text-shadow: 1px 1px #666;
 }
 
-#navbar-brand a {
-    color: #FFFFFF !important;
+.nav-item a {
+    font-size: 16px;
     text-decoration: none !important;
-  }
+}
 
 table {
     border-collapse: separate !important;
