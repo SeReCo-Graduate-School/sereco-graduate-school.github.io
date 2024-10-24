@@ -17,14 +17,15 @@ Dates
     August 16: Finalisation of program
     October 17 and 18: SeReCo Autumn Workshop 2024
 
-You are welcome to arrive on Wednesday, October 16, in the afternoon as our workshop starts on the following morning. If you choose to do so, you are invited to join our social gathering in the evening, see programm below.
+You are welcome to arrive on Wednesday, October 3th, in the afternoon as our workshop starts on the following morning. If you choose to do so, you are invited to join our social gathering in the evening, see programm below.
+
 Keynote
 
-We are excited to announce André Platzer as keynote speaker for SeReCo 2024.
+We are excited to announce WW as keynote speaker for SeReCo 2025.
 
-About: André Platzer is an Alexander von Humboldt Professor at KIT and founder of the Logical Systems Lab at Computer Science Department at Carnegie Mellon University. He develops logics for dynamical systems to characterize the logical foundations of cyber-physical systems and to answer the question how we can trust a computer to control physical processes. The solution to this challenge is the key to enabling computer assistance that we can bet our lives on. Prof. Platzer pursues this challenge with the principled design of programming languages with logics that can provide proofs as correctness guarantees.
+About WW: 
+
 Location
-
 The workshop is located at our Institute of Applied Informatics and Formal Description Methods (AIFB): Kaiserstr. 89 in 76131 Karlsruhe, Germany - Room 5A-09 (on the 5th floor in the A Wing). To enter the building, please call one of the local organisers.
 
 Take a look at the map for directions. Our building is right next to Kronenplatz station.
