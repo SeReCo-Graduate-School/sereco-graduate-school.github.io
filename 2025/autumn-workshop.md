@@ -1,9 +1,9 @@
 ---
 ---
 
-# SeReCo Autumn Workshop 2025
+# SeReCo Workshop 2025
 
-We invite you to join the Autumn Workshop 2025 of the Doctoral College for Semantics, Reasoning and Coordination.
+We invite you to join the Workshop 2025 of the Doctoral College for Semantics, Reasoning and Coordination.
 
 The Workshop will be hosted on 4th and 5th of September 2025 in Saint Etienne, France, and is open to all PhD students and researchers of the participating organizations:
 
@@ -13,33 +13,30 @@ The Workshop will be hosted on 4th and 5th of September 2025 in Saint Etienne, F
 - Karlsruhe Institute of Technology (KIT)
 - Universität St. Gallen
 
-### Dates TO BE CHANGED
+### Dates 
 
 - <s>June 30: Registration closes</s>
-- <s>July 30: Call for presentation abstracts sent out</s>
-- <s>August 16: Finalisation of program</s>
-- October 17 and 18: SeReCo Autumn Workshop 2024
+- <s>June 30: Call for presentation abstracts sent out</s>
+- <s>July 20: Finalisation of program</s>
+- September 4 and 5: SeReCo Workshop 2025
 
-You are welcome to arrive on Wednesday, October 16, in the afternoon as our workshop starts on the following morning.
+You are welcome to arrive on Wednesday, September 3, in the afternoon as our workshop starts on the following morning.
 If you choose to do so, you are invited to join our social gathering in the evening, see programm below.
 
 ## Keynote
 
-We are excited to announce <a target="_blank" href="https://logic.kastel.kit.edu/andre.html">André Platzer</a> as keynote speaker for SeReCo 2024.
+We are excited to announce <a target="_blank" href="https://en.wikipedia.org/wiki/My_Name_Is_Nobody">Guess Who</a> as keynote speaker for SeReCo 2025.
 
 <b>About:</b>
-André Platzer is an Alexander von Humboldt Professor at KIT and founder of the Logical Systems Lab at Computer Science Department at Carnegie Mellon University.
-He develops logics for dynamical systems to characterize the logical foundations of cyber-physical systems and to answer the question how we can trust a computer to control physical processes.
-The solution to this challenge is the key to enabling computer assistance that we can bet our lives on.
-Prof. Platzer pursues this challenge with the principled design of programming languages with logics that can provide proofs as correctness guarantees.
+More On' Guess Who
 
 ## Location
 
-The workshop is located at our [Institute of Applied Informatics and Formal Description Methods (AIFB)](https://www.aifb.kit.edu/english/126.php): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor in the A Wing).
+The workshop is located at the  [Campus Manufacture (Université Jean Monnet)](https://www.univ-st-etienne.fr/fr/direction-du-patrimoine/campus-trefilerie/campus-manufacture.html): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor in the A Wing).
 To enter the building, please call one of the local organisers.
 
-Take a look at the [map](https://maps.app.goo.gl/vyGzSYhD3VKjHybc7) for directions.
-Our building is right next to Kronenplatz station.
+Take a look at the https://www.google.com/maps/place/45%C2%B027'08.3%22N+4%C2%B023'16.1%22E/@45.452309,4.387796,1131m/data=!3m1!1e3!4m4!3m3!8m2!3d45.4523087!4d4.3877963?hl=fr&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D  for directions.
+Our building is right next to tram station _Cité du Design_.
 
 ## Local organization
 
