@@ -5,7 +5,7 @@
 
 We invite you to join the Workshop 2025 of the Doctoral College for Semantics, Reasoning and Coordination.
 
-The Workshop will be hosted on 4th and 5th of September 2025 in Saint Etienne, France, and is open to all PhD students and researchers of the participating organizations:
+The Workshop will be hosted on 4th and 5th of September 2025 in Saint-Étienne, France, and is open to all PhD students and researchers of the participating organizations:
 
 - Ecole des Mines Saint-Étienne
 - Friedrich-Alexander-Universität Erlangen-Nürnberg
@@ -15,9 +15,9 @@ The Workshop will be hosted on 4th and 5th of September 2025 in Saint Etienne, F
 
 ### Dates 
 
-- <s>June 30: Registration closes</s>
-- <s>June 30: Call for presentation abstracts sent out</s>
-- <s>July 20: Finalisation of program</s>
+- June 30: Registration closes
+- June 30: Call for presentation abstracts sent out
+- July 20: Finalisation of program
 - September 4 and 5: SeReCo Workshop 2025
 
 You are welcome to arrive on Wednesday, September 3, in the afternoon as our workshop starts on the following morning.
@@ -32,16 +32,15 @@ More On' Guess Who
 
 ## Location
 
-The workshop is located at the  [Campus Manufacture (Université Jean Monnet)](https://www.univ-st-etienne.fr/fr/direction-du-patrimoine/campus-trefilerie/campus-manufacture.html): **Kaiserstr. 89** in **76131 Karlsruhe, Germany** - Room 5A-09 (on the 5th floor in the A Wing).
-To enter the building, please call one of the local organisers.
+The workshop is located at the <a target="_blank" href="https://www.univ-st-etienne.fr/fr/direction-du-patrimoine/campus-trefilerie/campus-manufacture.html">Campus Manufacture (Université Jean Monnet)</a>  **18 rue Benoit Lauras** in **42000 Saint-Étienne, France**.
+To enter the court and the building, please call one of the local organisers.
 
-Take a look at the https://www.google.com/maps/place/45%C2%B027'08.3%22N+4%C2%B023'16.1%22E/@45.452309,4.387796,1131m/data=!3m1!1e3!4m4!3m3!8m2!3d45.4523087!4d4.3877963?hl=fr&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D  for directions.
-Our building is right next to tram station _Cité du Design_.
+Take a look at the  <a target="_blank" href="https://www.google.com/maps/place/45%C2%B027'08.3%22N+4%C2%B023'16.1%22E/@45.452309,4.387796,1131m/data=!3m1!1e3!4m4!3m3!8m2!3d45.4523087!4d4.3877963?hl=fr&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D">Map</a> for directions.
+Our building is next to tram station _Cité du Design_, or the next one _Chaléassière_.
 
 ## Local organization
 
-- [Christoph Braun](https://aifb.kit.edu/web/Christoph_Braun/en), Karlsruhe Institute of Technology (KIT)
-- [Tobias Käfer](https://aifb.kit.edu/web/Tobias_Käfer/en), Karlsruhe Institute of Technology (KIT)
+- [Pierre Maret], Université Jean Monnet, Saint-Étienne (UJM)
 
 ## Tentative Program
 
