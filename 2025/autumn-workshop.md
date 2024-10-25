@@ -15,9 +15,9 @@ The Workshop will be hosted on 4th and 5th of September 2025 in Saint-Étienne, 
 
 ### Dates 
 
+- May 1st: Call for presentation abstracts sent out
 - June 30: Registration closes
-- June 30: Call for presentation abstracts sent out
-- July 20: Finalisation of the program
+- July 10: Finalisation of the program
 - September 4 and 5: SeReCo Workshop 2025
 
 You are welcome to arrive on Wednesday, September 3, in the afternoon as our workshop starts on the following morning.
@@ -147,7 +147,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>18:15</td>
     <td class="highlight">
      <p>Dinner + Social Evening</p>
-     <p>at <a target="_blank" href="https://maps.app.goo.gl/2YQcuuZomSihWzax5">Vogelbräu Karlsruhe</a> which is close-by</p>
+     <p>at <a target="_blank" href=" ">A restaurant</a> (10' away by foot)</p>
     </td>
   </tr>
   <tr></tr>
