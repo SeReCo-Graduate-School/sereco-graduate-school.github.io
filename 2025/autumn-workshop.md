@@ -40,8 +40,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 
 ## Local organization
 
-- [Pierre Maret], Université Jean Monnet, Saint-Étienne (UJM)
-
+- [Pierre Maret](mailto:pierre.maret@univ-st-etienne.fr), Université Jean Monnet, Saint-Étienne (UJM)
+- [Christoph Braun](https://aifb.kit.edu/web/Christoph_Braun/en), Karlsruhe Institute of Technology (KIT)
 ## Tentative Program
 
 <p>The presentations time slots will be 15 min presentation + 10 min for questions.</p>
@@ -49,35 +49,35 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 <table class="agenda">
   <tr>
     <th></th>
-    <th>Wednesday (October 16, 2024)</th>
+    <th>Wednesday (September 3, 2025)</th>
   </tr>
   <tr>
     <td>18:00</td>
     <td class="highlight">
-      <p>Social Gathering: Drinks (and food) at <a target="_blank" href="https://maps.app.goo.gl/f8KA2P8cHBDGgvDR8">Lehners Wirtshaus</a>.</p> 
-      <p>(Chair: Christoph Braun)</p>
+      <p>Social Gathering: Drinks (and food) at <a target="_blank" href="https://www.saint-etienne-hors-cadre.fr/patrimoine-culturel/place-jean-jaures-saint-etienne/">Place Jean Jaures</a>.</p> 
+      <p></p>
     </td>
   </tr>
   <tr></tr>
   <tr>
     <th></th>
-    <th>Thursday (October 17, 2024)</th>
+    <th>Thursday (September 4, 2025)</th>
   </tr>
   <tr>
     <td>09:30</td>
     <td class="admin">
       <p>Opening Session</p>
-      <p>(Chair: Tobias Käfer)</p>
+      <p>(Chair: Pierre Maret)</p>
     </td>
   </tr>
  <tr>
     <td>09:45</td>
     <td class="presentation">
       <p><i>Coordination</i></p>
-      <p>A Normative Agent-Centric Approach to Regulate Manufacturing Process
+      <p>Title
       <br>
-      Speaker: Elena Yan</p>
-      <p>(Chair: Daniel Schraudner)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -88,10 +88,11 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>10:30</td>
     <td class="presentation">
       <p><i>Coordination</i></p>
-      <p>Enabling Adaptation in Dynamic Manufacturing Environments with Decentralized Agent-Based Systems and Local Perception
+      <p>Title
       <br>
-      Speaker: Sebastian Schmid</p>
-      <p>(Chair: Tobias Käfer)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -100,8 +101,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
       <p><i>SeReCo</i></p>
       <p>Keynote
       <br>
-      Speaker: <a target="_blank" href="https://logic.kastel.kit.edu/andre.html">André Platzer</a></p>
-      <p>(Chair: Tobias Käfer)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -112,17 +113,17 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>13:15</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Zero-Knowledge Proofs on RDF datasets
+      <p>Title
       <br>
-      Speaker: Christoph Braun</p>
-      <p>(Chair: Antoine Zimmermann)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
     <td>14:00</td>
     <td class="highlight">
-      <p>Field trip to <a target="_blank" href="https://www.karlsruher-forschungsfabrik.de/en.html">Karlsruhe Research Factory for AI-integrated Production</a></p>
-      <p>Chair: Tobias Käfer</p>
+      <p>Field trip to <a target="_blank" href="">Nice place to visit</a></p>
+      <p>Chair: </p>
     </td>
   </tr>
   <tr>
@@ -132,8 +133,10 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr>
     <td>16:30</td>
     <td class="presentation">
-      <p>Academic speed dating / discussion / ideation session - hot topics of SeReCo / follow-up discussions</p>
-      <p>Chair: Christoph Braun</p>
+      <p>Title
+      <br>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -150,26 +153,26 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr></tr>
   <tr>
     <th></th>
-    <th>Friday (October 18, 2024)</th>
+    <th>Friday (September 5, 2025)</th>
   </tr>
   <tr>
     <td>09:00</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Knowledge Graph-augmented LLMs and LLM-augmented Knowledge Graphs
+      <p>Title
       <br>
-      Speaker: Nicholas Popovic</p>
-      <p>(Chair: Pierre Maret)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
     <td>09:30</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Building Ontologies from Implicit User Knowledge
+      <p>Title
       <br>
-      Speaker: David Haller</p>
-      <p>(Chair: Pierre Maret)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -180,20 +183,20 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>10:15</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Web of Things (WoT) and Poster session
+      <p>Title
       <br>
-      Contributions by: Zhou Gui, Rene Dorsch, Michael Freund, Yuyang Li</p>
-      <p>(Chair: Christoph Braun)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
     <td>11:30</td>
     <td class="presentation">
       <p><i>Semantics</i></p>
-      <p>Supply Network Analysis in Knowledge Graphs
+      <p>Title
       <br>
-      Speaker: Daniel Henselmann</p>
-      <p>(Chair: Elena Yan)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -204,7 +207,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>13:30</td>
     <td class="presentation">
       <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>(Chair: Tobias Käfer and Christoph Braun)</p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
@@ -215,17 +218,17 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>15:00</td>
     <td class="presentation">
       <p><i>Coordination</i></p>
-      <p>Delegation in the Solid Dataspace
+      <p>Title
       <br>
-      Speaker: Daniel Schraudner</p>
-      <p>(Chair: Sebastian Schmid)</p>
+      Speaker: </p>
+      <p>(Chair: )</p>
     </td>
   </tr>
   <tr>
     <td>15:30</td>
     <td class="admin">
       <p>Closing Session</p>
-      <p>(Chair: Tobias Käfer)</p>
+      <p>(Chair: Pierre Maret)</p>
     </td>
   </tr>
   <tr>
