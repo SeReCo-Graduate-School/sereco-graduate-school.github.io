@@ -17,7 +17,7 @@ The Workshop will be hosted on 4th and 5th of September 2025 in Saint-Étienne, 
 
 - June 30: Registration closes
 - June 30: Call for presentation abstracts sent out
-- July 20: Finalisation of program
+- July 20: Finalisation of the program
 - September 4 and 5: SeReCo Workshop 2025
 
 You are welcome to arrive on Wednesday, September 3, in the afternoon as our workshop starts on the following morning.
@@ -41,7 +41,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 ## Local organization
 
 - [Pierre Maret](mailto:pierre.maret@univ-st-etienne.fr), Université Jean Monnet, Saint-Étienne (UJM)
-- [Christoph Braun](https://aifb.kit.edu/web/Christoph_Braun/en), Karlsruhe Institute of Technology (KIT)
+
 ## Tentative Program
 
 <p>The presentations time slots will be 15 min presentation + 10 min for questions.</p>
