@@ -41,6 +41,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 ## Local organization
 
 - [Pierre Maret](mailto:pierre.maret@univ-st-etienne.fr), Université Jean Monnet, Saint-Étienne (UJM)
+- [Antoine Zimmermann](mailto:antoine.zimmermann@emse.fr), Mines Saint-Étienne, Saint-Étienne (EMSE)
 
 ## Tentative Program
 
