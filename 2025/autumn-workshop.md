@@ -69,6 +69,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td class="admin">
       <p>Welcome coffe</p>
     </td>
+  </tr>
+  <tr>
     <td>09:30</td>
     <td class="admin">
       <p>Opening Session</p>
