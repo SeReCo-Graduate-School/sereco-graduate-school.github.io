@@ -25,10 +25,10 @@ If you choose to do so, you are invited to join our social gathering in the even
 
 ## Keynote
 
-We are excited to announce <a target="_blank" href="https://en.wikipedia.org/wiki/My_Name_Is_Nobody">Guess Who</a> as keynote speaker for SeReCo 2025.
+We are excited to announce <a target="_blank" href="https://moex.inria.fr/~euzenat/#tab1">Jérôme Euzenat</a> as keynote speaker for SeReCo 2025.
 
 <b>About:</b>
-More On' Guess Who
+Jérôme Euzenat is a senior research scientist at INRIA, Grenoble, France where he leads the mOeX team, join to Université Grenoble Alpes and INRIA and member of the Laboratoire d'informatique de Grenoble. He teaches knowledge representation at the Université Grenoble Alpes.
 
 ## Location
 
@@ -65,6 +65,10 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <th>Thursday (September 4, 2025)</th>
   </tr>
   <tr>
+    <td>09:00</td>
+    <td class="admin">
+      <p>Welcome coffe</p>
+    </td>
     <td>09:30</td>
     <td class="admin">
       <p>Opening Session</p>
