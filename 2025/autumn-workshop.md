@@ -80,8 +80,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
  <tr>
     <td>09:30</td>
     <td class="presentation">
-      <p><i>Presenting a new partner</i></p>
-      (Chair: Pierre Maret)
+      <p><i>Presenting a new partner</i></p> (Chair: Pierre Maret)
       <p>Research programme of Wimmics team
       <br>
       Speaker: Catherine Faron (remote) </p>
@@ -96,7 +95,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>11:00</td>
-    <td class="presentation"> <Chair: Andreas Harth)
+    <td class="presentation"> (Chair: Andreas Harth)
       <p><i>Agents</i></p>
       <p>Enabling Heterogeneous Agents to Collaborate on the Web through Signifiers
       <br>
@@ -115,15 +114,23 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td class="admin">Lunch at the Fabuleuse Cantine</td>
   </tr>
    <tr>
-    <td>13:15</td>
+    <td>14:30</td>
     <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Title
+      <p><i>Solid</i></p> (Chair: Tobias Kaefer)
+      <p>Data discovery in a Solid-Dataspace
       <br>
-      Speaker: </p>
+      Speaker: Marco	Hauff</p>
+      <p>VALIDALI: Towards planning on the Web of Things
+      <br>
+      Speaker: Sebastian	Schmid</p>
+      <p>TBD
+      <br>
+      Speaker: Lukas	Kubelka</p>
       <p>(Chair: )</p>
     </td>
   </tr>
+
+  
   <tr>
     <td>14:00</td>
     <td class="highlight">
