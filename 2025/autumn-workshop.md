@@ -67,7 +67,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr>
     <td>09:00</td>
     <td class="admin">
-      <p>Welcome coffe</p>
+      <p>Welcome coffee</p>
     </td>
   </tr>
   <tr>
@@ -125,7 +125,6 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
       <p>TBD
       <br>
       Speaker: Lukas	Kubelka</p>
-      <p>(Chair: )</p>
     </td>
   </tr>
    <tr>
@@ -138,44 +137,16 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   
   <tr>
     <td>17:45</td>
-    <td class="highlight">
+    <td class="admin">
       <p>Group photo</p>
     </td>
   </tr>
   <tr>
   <td>18:00</td>
-    <td class="highlight">
+    <td class="admin">
       <p>Bus departure from the Lab H. Curien</p>
       <p>Field trip and dinner at <a target="_blank" href="https://www.lesgenetsdor42.fr/">Les Genets d'Or</a></p>
       <p>Return by 22:00 in the city</p>
-    </td>
-  </tr>
-
-
-
-  
-  <tr>
-    <td>16:25</td>
-    <td class="admin">Group Photo</td>
-  </tr>
-  <tr>
-    <td>16:30</td>
-    <td class="presentation">
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>17:15</td>
-    <td class="admin">Break</td>
-  </tr>
-  <tr>
-    <td>18:15</td>
-    <td class="highlight">
-     <p>Dinner + Social Evening</p>
-     <p>at <a target="_blank" href=" ">A restaurant</a> (10' away by foot)</p>
     </td>
   </tr>
   <tr></tr>
@@ -183,6 +154,66 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <th></th>
     <th>Friday (September 5, 2025)</th>
   </tr>
+    <tr>
+    <td>09:00</td>
+    <td class="admin">
+      <p>Welcome back coffee</p>
+    </td>
+  </tr>
+  <tr>
+    <td>09:30</td>
+    <td class="presentation">
+      <p><i>Keynote speaker</i></p> (Chair: Antoine Zimmermann)
+      <p>TBD
+      <br>
+      Speaker: Jérôme Euzenat</p>
+  </td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td class="presentation"> (Chair:Aline	Menin)
+      <p><i>Knowledge Graphs</i></p>
+      <p>Neurosymbolic Reasoning for the ARC Benchmark
+      <br>
+      Speaker: Lukas	Kinder	</p>
+      <p>A Model to Infer Supply Networks on Various Abstractions in Knowledge Graphs
+      <br>
+      Speaker: Daniel	Henselmann</p>
+      <p>TBD
+      <br>
+      Speaker: Anas	Azdad</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>12:00</td>
+    <td class="admin">Buffet (on site)</td>
+  </tr>
+   <tr>
+    <td>14:30</td>
+    <td class="presentation">
+      <p><i>Natural Language Processing</i></p> (Chair: Victor Charpenay)
+      <p>Natural Language Command Interpretation for Internet of Things Device Interaction
+      <br>
+      Speaker: Zhou	Gui		</p>
+      <p>Graf-von-Data: A Knowledge Graph-Agnostic Question Answering Agent for Organizations
+      <br>
+      Speaker: Rene	Dorsch</p>
+      <p>TBD
+      <br>
+      Speaker: TBD</p>
+
+    </td>
+  </tr>
+  
+  
+  
+  
+  
   <tr>
     <td>09:00</td>
     <td class="presentation">
