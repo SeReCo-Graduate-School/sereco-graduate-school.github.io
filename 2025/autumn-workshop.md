@@ -55,7 +55,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr>
     <td>18:00</td>
     <td class="highlight">
-      <p>Social Gathering: Drinks (and food) at <a target="_blank" href="https://www.saint-etienne-hors-cadre.fr/patrimoine-culturel/place-jean-jaures-saint-etienne/">Place Jean Jaures</a>.</p> 
+      <p>Social Gathering: Drinks (and food) at "L'aile ou la cuisse" <a target="_blank" href="https://www.saint-etienne-hors-cadre.fr/patrimoine-culturel/place-jean-jaures-saint-etienne/">on Place Jean Jaures</a>.</p> 
       <p></p>
     </td>
   </tr>
@@ -79,7 +79,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
  <tr>
     <td>09:30</td>
     <td class="presentation">
-      <p><i>Presenting a new partner</i></p> (Chair: Pierre Maret)
+      <p><i>Presenting a new partner</i> (Chair: Pierre Maret) </p> 
       <p>Research programme of Wimmics team
       <br>
       Speaker: Catherine Faron (remote) </p>
@@ -94,8 +94,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>11:00</td>
-    <td class="presentation"> (Chair: Andreas Harth)
-      <p><i>Agents</i></p>
+    <td class="presentation"> 
+      <p><i>Agents</i> (Chair: Andreas Harth) </p>
       <p>Enabling Heterogeneous Agents to Collaborate on the Web through Signifiers
       <br>
       Speaker: Jérémy	Lemée</p>
@@ -115,7 +115,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
    <tr>
     <td>14:30</td>
     <td class="presentation">
-      <p><i>Solid</i></p> (Chair: Tobias Kaefer)
+      <p><i>Solid</i> (Chair: Tobias Kaefer)</p> 
       <p>Data discovery in a Solid-Dataspace
       <br>
       Speaker: Marco	Hauff</p>
@@ -130,8 +130,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
    <tr>
     <td>16:00</td>
     <td class="highlight">
-      <p>Discussion</p>
-      Chairs: Pierre Maret, Antoine Zimmermann
+      <p>Discussion (Moderators: Pierre Maret, Antoine Zimmermann) </p>
     </td>
   </tr>
   
@@ -163,7 +162,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr>
     <td>09:30</td>
     <td class="presentation">
-      <p><i>Keynote speaker</i></p> (Chair: Antoine Zimmermann)
+      <p><i>Keynote speaker</i> (Chair: Antoine Zimmermann)</p>
       <p>TBD
       <br>
       Speaker: Jérôme Euzenat</p>
@@ -175,8 +174,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>11:00</td>
-    <td class="presentation"> (Chair:Aline	Menin)
-      <p><i>Knowledge Graphs</i></p>
+    <td class="presentation"> 
+      <p><i>Knowledge Graphs</i> (Chair:Aline	Menin)</p>
       <p>Neurosymbolic Reasoning for the ARC Benchmark
       <br>
       Speaker: Lukas	Kinder	</p>
@@ -196,7 +195,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
    <tr>
     <td>14:30</td>
     <td class="presentation">
-      <p><i>Natural Language Processing</i></p> (Chair: Victor Charpenay)
+      <p><i>Natural Language Processing</i> (Chair: Victor Charpenay)</p> 
       <p>Natural Language Command Interpretation for Internet of Things Device Interaction
       <br>
       Speaker: Zhou	Gui		</p>
@@ -209,85 +208,10 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 
     </td>
   </tr>
-  
-  
-  
-  
-  
-  <tr>
-    <td>09:00</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>09:30</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>10:00</td>
-    <td class="admin">Coffee Break</td>
-  </tr>
-  <tr>
-    <td>10:15</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>11:30</td>
-    <td class="presentation">
-      <p><i>Semantics</i></p>
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>12:00</td>
-    <td class="admin">Lunch</td>
-  </tr>
-  <tr>
-    <td>13:30</td>
-    <td class="presentation">
-      <p>Discussion and ideation session - hot topics of SeReCo</p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>14:30</td>
-    <td class="admin">Coffee Break</td>
-  </tr>
-  <tr>
-    <td>15:00</td>
-    <td class="presentation">
-      <p><i>Coordination</i></p>
-      <p>Title
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
-  <tr>
-    <td>15:30</td>
+   <td>15:30</td>
     <td class="admin">
       <p>Closing Session</p>
-      <p>(Chair: Pierre Maret)</p>
+      <p>(Pierre Maret, Antoine Zimmermann)</p>
     </td>
   </tr>
   <tr>
