@@ -74,25 +74,28 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>09:30</td>
     <td class="admin">
       <p>Opening Session</p>
-      <p>(Chair: Pierre Maret)</p>
+      <p>(Pierre Maret, Antoine Zimmermann)</p>
     </td>
   </tr>
  <tr>
-    <td>09:45</td>
+    <td>09:30</td>
     <td class="presentation">
-      <p><i>Coordination</i></p>
-      <p>Title
+      <p><i>Presenting a new partner</i></p>
+      <p>(Chair: Pierre Maret)</p>
+      <p>Research programme of Wimmics team
       <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
+      Speaker: Catherine Faron (remote) </p>
+      <p>From Graph to Insight: Data Visualization for Knowledge Graphs
+      <br>
+      Speaker: Aline	Menin</p>
     </td>
   </tr>
   <tr>
-    <td>10:15</td>
+    <td>10:30</td>
     <td class="admin">Coffee Break</td>
   </tr>
   <tr>
-    <td>10:30</td>
+    <td>11:00</td>
     <td class="presentation">
       <p><i>Coordination</i></p>
       <p>Title
