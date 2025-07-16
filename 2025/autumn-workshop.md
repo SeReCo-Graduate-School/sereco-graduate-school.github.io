@@ -71,7 +71,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     </td>
   </tr>
   <tr>
-    <td>09:30</td>
+    <td>09:25</td>
     <td class="admin">
       <p>Opening Session</p>
       <p>(Pierre Maret, Antoine Zimmermann)</p>
@@ -81,7 +81,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td>09:30</td>
     <td class="presentation">
       <p><i>Presenting a new partner</i></p>
-      <p>(Chair: Pierre Maret)</p>
+      (Chair: Pierre Maret)
       <p>Research programme of Wimmics team
       <br>
       Speaker: Catherine Faron (remote) </p>
