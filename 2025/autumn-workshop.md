@@ -30,6 +30,10 @@ We are excited to announce <a target="_blank" href="https://moex.inria.fr/~euzen
 <b>About:</b>
 Jérôme Euzenat is a senior research scientist at INRIA, Grenoble, France where he leads the mOeX team, join to Université Grenoble Alpes and INRIA and member of the Laboratoire d'informatique de Grenoble. He teaches knowledge representation at the Université Grenoble Alpes.
 
+## Invited group
+
+We are happy to welcome members of the Wimmics team (Université de Nice). This team will officially join the SeReCo Doctoral College from January 2026.
+
 ## Location
 
 The workshop is located at the <a target="_blank" href="https://www.univ-st-etienne.fr/fr/direction-du-patrimoine/campus-trefilerie/campus-manufacture.html">Campus Manufacture (Université Jean Monnet)</a>  **18 rue Benoit Lauras** in **42000 Saint-Étienne, France**.
@@ -45,7 +49,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 
 ## Tentative Program
 
-<p>The presentations time slots will be 15 min presentation + 10 min for questions.</p>
+<p>The presentations time slots will be 15 min presentation + 5 min for questions.</p>
 
 <table class="agenda">
   <tr>
@@ -156,7 +160,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <tr>
     <td>09:00</td>
     <td class="admin">
-      <p>Welcome back coffee</p>
+      <p>"Welcome back" coffee</p>
     </td>
   </tr>
   <tr>
