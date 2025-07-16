@@ -96,28 +96,23 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>11:00</td>
-    <td class="presentation">
-      <p><i>Coordination</i></p>
-      <p>Title
+    <td class="presentation"> <Chair: Andreas Harth)
+      <p><i>Agents</i></p>
+      <p>Enabling Heterogeneous Agents to Collaborate on the Web through Signifiers
       <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-      <p>(Chair: )</p>
+      Speaker: Jérémy	Lemée</p>
+      <p>Delegation of Access Rights to Web Resources between Agents
+      <br>
+      Speaker: Daniel	Schraudner</p>
+      <p>WoT Channel Systems
+      <br>
+      Speaker: Thomas	Wehr</p>
     </td>
   </tr>
-  <tr>
-    <td>11:00</td>
-    <td class="highlight">
-      <p><i>SeReCo</i></p>
-      <p>Keynote
-      <br>
-      Speaker: </p>
-      <p>(Chair: )</p>
-    </td>
-  </tr>
+
   <tr>
     <td>12:00</td>
-    <td class="admin">Lunch</td>
+    <td class="admin">Lunch at the Fabuleuse Cantine</td>
   </tr>
    <tr>
     <td>13:15</td>
