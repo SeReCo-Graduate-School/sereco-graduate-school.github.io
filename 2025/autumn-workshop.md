@@ -141,7 +141,9 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <td class="highlight">
       <p>Group photo</p>
     </td>
-    <td>18:00</td>
+  </tr>
+  <tr>
+  <td>18:00</td>
     <td class="highlight">
       <p>Bus departure from the Lab H. Curien</p>
       <p>Field trip and dinner at <a target="_blank" href="https://www.lesgenetsdor42.fr/">Les Genets d'Or</a></p>
