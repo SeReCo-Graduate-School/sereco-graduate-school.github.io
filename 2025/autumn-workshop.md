@@ -73,8 +73,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   <tr>
     <td>09:25</td>
     <td class="admin">
-      <p>Opening Session</p>
-      <p>(Pierre Maret, Antoine Zimmermann)</p>
+      <p>Opening Session</p> (Pierre Maret, Antoine Zimmermann)
     </td>
   </tr>
  <tr>
@@ -129,15 +128,30 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
       <p>(Chair: )</p>
     </td>
   </tr>
-
-  
-  <tr>
-    <td>14:00</td>
+   <tr>
+    <td>16:00</td>
     <td class="highlight">
-      <p>Field trip to <a target="_blank" href="">Nice place to visit</a></p>
-      <p>Chair: </p>
+      <p>Discussion</p>
+      Chairs: Pierre Maret, Antoine Zimmermann
     </td>
   </tr>
+  
+  <tr>
+    <td>17:45</td>
+    <td class="highlight">
+      <p>Group photo</p>
+    </td>
+    <td>18:00</td>
+    <td class="highlight">
+      <p>Bus departure from the Lab H. Curien</p>
+      <p>Field trip and dinner at <a target="_blank" href="https://www.lesgenetsdor42.fr/">Les Genets d'Or</a></p>
+      <p>Return by 22:00 in the city</p>
+    </td>
+  </tr>
+
+
+
+  
   <tr>
     <td>16:25</td>
     <td class="admin">Group Photo</td>
