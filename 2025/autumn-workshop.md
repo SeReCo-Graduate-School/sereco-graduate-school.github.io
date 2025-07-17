@@ -218,8 +218,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
    <td>15:30</td>
     <td class="admin">
-      <p>Closing Session</p>
-      <p>(Pierre Maret, Antoine Zimmermann)</p>
+      <p>Closing Session</p> (Pierre Maret, Antoine Zimmermann)
     </td>
   </tr>
   <tr>
