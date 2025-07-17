@@ -119,17 +119,15 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
    <tr>
     <td>14:30</td>
     <td class="presentation">
-      <p><i>Solid</i> (Chair: Tobias Kaefer)</p> 
-      <p>Data discovery in a Solid-Dataspace
-      <br>
-      Speaker: Marco	Hauff</p>
-      <p>VALIDALI: Towards planning on the Web of Things
-      <br>
-      Speaker: Sebastian	Schmid</p>
+      <p><i>Keynote speaker</i> (Chair: Antoine Zimmermann)</p>
       <p>TBD
       <br>
-      Speaker: Lukas	Kubelka</p>
-    </td>
+      Speaker: Jérôme Euzenat</p>
+  </td>
+  </tr>
+  <tr>
+    <td>15:30</td>
+    <td class="admin">Coffee Break</td>
   </tr>
    <tr>
     <td>16:00</td>
@@ -164,15 +162,21 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     </td>
   </tr>
   <tr>
-    <td>09:30</td>
+    <td>14:30</td>
     <td class="presentation">
-      <p><i>Keynote speaker</i> (Chair: Antoine Zimmermann)</p>
+      <p><i>Solid</i> (Chair: Tobias Kaefer)</p> 
+      <p>Data discovery in a Solid-Dataspace
+      <br>
+      Speaker: Marco	Hauff</p>
+      <p>VALIDALI: Towards planning on the Web of Things
+      <br>
+      Speaker: Sebastian	Schmid</p>
       <p>TBD
       <br>
-      Speaker: Jérôme Euzenat</p>
-  </td>
+      Speaker: Lukas	Kubelka</p>
+    </td>
   </tr>
-  <tr>
+    <tr>
     <td>10:30</td>
     <td class="admin">Coffee Break</td>
   </tr>
