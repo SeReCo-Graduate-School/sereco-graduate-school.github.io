@@ -151,7 +151,8 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     </td>
   </tr>
   <tr></tr>
-  <tr>
+  <td> </td>
+    <tr>
     <th></th>
     <th>Friday (September 5, 2025)</th>
   </tr>
@@ -195,7 +196,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
 
   <tr>
     <td>12:00</td>
-    <td class="admin">Buffet (on site)</td>
+    <td class="admin">Lunch buffet (on site)</td>
   </tr>
    <tr>
     <td>14:30</td>
