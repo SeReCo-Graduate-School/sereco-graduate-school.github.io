@@ -42,6 +42,10 @@ To enter the court and the building, please call one of the local organisers.
 Take a look at the  <a target="_blank" href="https://www.google.com/maps/place/45%C2%B027'08.3%22N+4%C2%B023'16.1%22E/@45.452309,4.387796,1131m/data=!3m1!1e3!4m4!3m3!8m2!3d45.4523087!4d4.3877963?hl=fr&entry=ttu&g_ep=EgoyMDI0MTAyMi4wIKXMDSoASAFQAw%3D%3D">Map</a> for directions.
 Our building is next to tram station _Cité du Design_, or the next one _Chaléassière_.
 
+## Remote participation
+
+You can connect to this web address on your browser : https://ujmstetienne.webex.com/meet/pierre.maret
+
 ## Local organization
 
 - [Pierre Maret](mailto:pierre.maret@univ-st-etienne.fr), Université Jean Monnet, Saint-Étienne (UJM)
