@@ -94,7 +94,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>10:30</td>
-    <td class="admin">Coffee Break</td>
+    <td class="admin">Coffee Break. Poster discovery</td>
   </tr>
   <tr>
     <td>11:00</td>
@@ -127,7 +127,7 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
   </tr>
   <tr>
     <td>15:30</td>
-    <td class="admin">Coffee Break</td>
+    <td class="admin">Coffee Break.  Poster discovery</td>
   </tr>
    <tr>
     <td>16:00</td>
@@ -156,13 +156,13 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
     <th>Friday (September 5, 2025)</th>
   </tr>
     <tr>
-    <td>09:00</td>
+    <td>09:30</td>
     <td class="admin">
-      <p>"Welcome back" coffee</p>
+      <p>"Welcome back"</p>
     </td>
   </tr>
   <tr>
-    <td>14:30</td>
+    <td>9:35</td>
     <td class="presentation">
       <p><i>Solid</i> (Chair: Tobias Kaefer)</p> 
       <p>Data discovery in a Solid-Dataspace
@@ -171,14 +171,11 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
       <p>VALIDALI: Towards planning on the Web of Things
       <br>
       Speaker: Sebastian	Schmid</p>
-      <p>TBD
-      <br>
-      Speaker: Lukas	Kubelka</p>
-    </td>
+      </td>
   </tr>
     <tr>
     <td>10:30</td>
-    <td class="admin">Coffee Break</td>
+    <td class="admin">Coffee Break.  Poster discovery</td>
   </tr>
   <tr>
     <td>11:00</td>
@@ -210,9 +207,9 @@ Our building is next to tram station _Cité du Design_, or the next one _Chaléa
       <p>Graf-von-Data: A Knowledge Graph-Agnostic Question Answering Agent for Organizations
       <br>
       Speaker: Rene	Dorsch</p>
-      <p>TBD
+      <p>Human-in-the-Loop Control of Modular Material-Handling Systems Using an LLM Agent
       <br>
-      Speaker: TBD</p>
+      Speaker: Hind Makarem</p>
 
     </td>
   </tr>
