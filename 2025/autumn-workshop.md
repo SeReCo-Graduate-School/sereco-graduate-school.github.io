@@ -192,7 +192,7 @@ You can connect to this web address on your browser : https://ujmstetienne.webex
       <p>A Model to Infer Supply Networks on Various Abstractions in Knowledge Graphs
       <br>
       Speaker: Daniel	Henselmann</p>
-      <p>TBD
+      <p>Transformer-based Encoders for Knowledge Graph Embedding
       <br>
       Speaker: Anas	Azdad</p>
     </td>
