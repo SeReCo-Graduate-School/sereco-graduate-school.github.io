@@ -32,7 +32,7 @@ Jérôme Euzenat is a senior research scientist at INRIA, Grenoble, France where
 
 ## Invited group
 
-We are happy to welcome members of the Wimmics team (Université de Nice). This team will officially join the SeReCo Doctoral College from January 2026.
+We are happy to welcome members of the Wimmics team (Université Côte d'Azur). This team will officially join the SeReCo Doctoral College from January 2026.
 
 ## Location
 
@@ -185,7 +185,7 @@ You can connect to this web address on your browser : https://ujmstetienne.webex
   <tr>
     <td>11:00</td>
     <td class="presentation"> 
-      <p><i>Knowledge Graphs</i> (Chair:Aline	Menin)</p>
+      <p><i>Knowledge Graphs</i> (Chair: Pierre Monnin)</p>
       <p>Neurosymbolic Reasoning for the ARC Benchmark
       <br>
       Speaker: Lukas	Kinder	</p>
