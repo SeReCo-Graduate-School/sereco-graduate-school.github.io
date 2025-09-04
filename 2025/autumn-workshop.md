@@ -124,7 +124,7 @@ You can connect to this web address on your browser : https://ujmstetienne.webex
     <td>14:30</td>
     <td class="presentation">
       <p><i>Keynote speaker</i> (Chair: Antoine Zimmermann)</p>
-      <p>TBD
+      <p>A cultural evolution approach to knowledge and belief coordination
       <br>
       Speaker: Jérôme Euzenat</p>
   </td>
@@ -191,7 +191,7 @@ You can connect to this web address on your browser : https://ujmstetienne.webex
       Speaker: Lukas	Kinder	</p>
       <p>A Model to Infer Supply Networks on Various Abstractions in Knowledge Graphs
       <br>
-      Speaker: Daniel	Henselmann</p>
+      Speaker: Daniel	Henselmann (remotely)</p>
       <p>Transformer-based Encoders for Knowledge Graph Embedding
       <br>
       Speaker: Anas	Azdad</p>
