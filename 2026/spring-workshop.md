@@ -12,6 +12,7 @@ The Workshop will be hosted on 18th and 19th of March 2026 in Nuremberg, Germany
 - Université Jean Monnet Saint-Étienne
 - Karlsruhe Institute of Technology (KIT)
 - Universität St. Gallen
+- Université Côte d’Azur
 
 ## Location
 
