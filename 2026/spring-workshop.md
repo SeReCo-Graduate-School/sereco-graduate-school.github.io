@@ -16,7 +16,7 @@ The Workshop will be hosted on 18th and 19th of March 2026 in Nuremberg, Germany
 
 ## Location
 
-The workshop is located at the [Friedrich-Alexander-Universität Erlangen-Nürnberg School of Business, Economics and Society](https://www.wiso.rw.fau.de/) **Findelasse 7/9** in **90403 Nuremberg, Germany**, see [map and directions](https://www.wiso.rw.fau.de/anfahrt-und-lageplan/).
+The workshop is located at the [Friedrich-Alexander-Universität Erlangen-Nürnberg School of Business, Economics and Society](https://www.wiso.rw.fau.de/) **Findelgasse 7/9** in **90403 Nuremberg, Germany**, see [map and directions](https://www.wiso.rw.fau.de/anfahrt-und-lageplan/).
 
 ### Accomodations
 
