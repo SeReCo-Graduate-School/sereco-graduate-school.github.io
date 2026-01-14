@@ -29,6 +29,11 @@ We recommend staying either at the [Motel One Nürnberg City](https://www.motel-
 - [Thomas Wehr](mailto:thomas.wehr@fau.de), Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 - [Andreas Harth](mailto:andreas.harth@fau.de), Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
+## Program Chair
+
+- [Lukas Kubelka](mailto:lukas.kubelka@kit.edu), Karlsruhe Institute of Technology (KIT)
+- [Lukas Kinder](mailto:lukas.kinder@kit.edu), Karlsruhe Institute of Technology (KIT)
+
 ## Keynote
 
 We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~stefborg/) as keynote speaker for SeReCo 2026.
