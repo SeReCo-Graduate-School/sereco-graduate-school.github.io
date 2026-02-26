@@ -63,7 +63,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr></tr>
   <tr>
     <th></th>
-    <th>Wednesday (March 19, 2026)</th>
+    <th>Wednesday (March 18, 2026)</th>
   </tr>
   <tr>
     <td>09:00</td>
@@ -191,10 +191,17 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td>14:00</td>
-    <td class="presentation">
-      <p>Group Interaction<p>
-      <br>
-      <p>Seniors Planning</p>
+    <td style="padding: 0; background-color: #fff">
+      <table style="width: 100%; border-collapse: collapse;">
+        <tbody><tr>
+          <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(64, 50%, 80%, 0.5);">
+            <p>Group Interaction</p>
+          </td>
+          <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
+            <p>Seniors Planning</p>
+          </td>
+        </tr>
+      </tbody></table>
     </td>
   </tr>
   <tr>
