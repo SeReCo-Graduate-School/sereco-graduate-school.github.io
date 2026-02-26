@@ -179,7 +179,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td>10:30</td>
-    <td class="presentation">
+    <td>
       <p>Coffee Break</p>
     </td>
   </tr>
