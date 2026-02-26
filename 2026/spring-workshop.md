@@ -179,7 +179,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       Speaker: Speaker IX</p>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>10:30</td>
     <td class="admin">
       <p>Coffee and Poster Session II</p>
@@ -188,11 +188,10 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     </td>
   </tr>
   <tr>
-  <tr>
     <td>12:00</td>
     <td class="admin">Lunch at TBD</td>
   </tr>
-   <tr>
+  <tr>
     <td>14:00</td>
     <td class="presentation">
       <p>Group Interaction<p>
