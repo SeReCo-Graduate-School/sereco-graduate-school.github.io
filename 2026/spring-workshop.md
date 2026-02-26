@@ -160,7 +160,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr></tr>
   <tr>
     <th></th>
-    <th>Thurday (March 19, 2026)</th>
+    <th>Thursday (March 19, 2026)</th>
   </tr>
   <tr>
     <td>9:30</td>
