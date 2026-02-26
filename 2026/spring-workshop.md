@@ -44,6 +44,164 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
 
 **Abstract:** Classical planning employs first-order formulas under closed- world semantics to achieve a goal with a given set of actions from an initial state. To incorporate background knowledge into the planning process, this knowledge can be provided in the form of an ontology, for example using description logics. However, description logics and other reasoning formalisms usually employ open-world semantics for drawing conclusions. In this talk, I will report on work in a project that aims to combine classical planning with description logics in order to provide more powerful and useful modeling tools for automated planning problems.
 
-## Program
+## Tentative Program
 
-TBD
+<p>The presentations time slots will be 15 min presentation + 5 min for questions.</p>
+
+<table class="agenda">
+  <tr>
+    <th></th>
+    <th>Tuesday (March 18, 2026)</th>
+  </tr>
+  <tr>
+    <td>18:00</td>
+    <td class="highlight">
+      <p>Social Gathering: Drinks (and food) at TBD.</p> 
+      <p></p>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <th></th>
+    <th>Wednesday (March 19, 2026)</th>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td class="admin">
+      <p>Welcome coffee</p>
+    </td>
+  </tr>
+  <tr>
+    <td>09:25</td>
+    <td class="admin">
+      <p>Opening Session</p> (Andreas Harth)
+    </td>
+  </tr>
+ <tr>
+    <td>09:30</td>
+    <td class="highlight">
+      <p><i>SeReCo</i></p>
+      <p>Keynote
+      <br>
+      Speaker: <a target="_blank" href="https://lat.inf.tu-dresden.de/~stefborg/">Stefan Borgwardt</a></p>
+      <p>(Chair: Andreas Harth)</p>
+    </td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td class="admin">Coffee Break</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td class="presentation"> 
+      <p><i>Category I</i> (Chair: TBD) </p>
+      <p>Presentation I
+      <br>
+      Speaker: Speaker I</p>
+      <p>Presentation II
+      <br>
+      Speaker: Speaker II</p>
+      <p>Presentation III
+      <br>
+      Speaker: Speaker III</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>12:00</td>
+    <td class="admin">Lunch at TBD</td>
+  </tr>
+  <tr>
+    <td>14:00</td>
+    <td class="presentation">
+      <p><i>Category II</i> (Chair: TBD) </p>
+      <p>Presentation IV
+      <br>
+      Speaker: Speaker IV</p>
+      <p>Presentation V
+      <br>
+      Speaker: Speaker V</p>
+      <p>Presentation VI
+      <br>
+      Speaker: Speaker VI</p>
+    </td>
+  </tr>
+  <tr>
+    <td>15:00</td>
+    <td class="highlight">
+      <p>Lightning Round</p>
+    </td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td class="presentation">
+      <p>Coffee and Poster Session I</p>
+      <br>
+      <p>1:1 w/ seniors</p>
+    </td>
+  </tr>
+  <tr>
+    <td>16:30</td>
+    <td class="highlight">
+      Group Interaction I (TBD)
+    </td>
+  </tr>
+  <tr>
+    <td>17:45</td>
+    <td class="admin">
+      <p>Group photo</p>
+    </td>
+  </tr>
+  <tr>
+  <td>18:00</td>
+    <td class="admin">
+      <p>Dinner at TBD</p>
+    </td>
+  </tr>
+  <tr></tr>
+  <td> </td>
+    <tr>
+    <th></th>
+    <th>Thurday (March 19, 2026)</th>
+  </tr>
+  <tr>
+    <td>9:30</td>
+    <td class="presentation">
+      <p><i>Category III</i> (Chair: TBD) </p>
+      <p>Presentation VII
+      <br>
+      Speaker: Speaker VII</p>
+      <p>Presentation VIII
+      <br>
+      Speaker: Speaker VIII</p>
+      <p>Presentation IX
+      <br>
+      Speaker: Speaker IX</p>
+    </td>
+  </tr>
+    <tr>
+    <td>10:30</td>
+    <td class="admin">
+      <p>Coffee and Poster Session II</p>
+      <br>
+      <p>1:1 w/ seniors</p>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td>12:00</td>
+    <td class="admin">Lunch at TBD</td>
+  </tr>
+   <tr>
+    <td>14:00</td>
+    <td class="presentation">
+      <p>Group Interaction<p>
+      <br>
+      <p>Seniors Planning</p>
+    </td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>Closing Session</td>
+  </tr>
+</table>
