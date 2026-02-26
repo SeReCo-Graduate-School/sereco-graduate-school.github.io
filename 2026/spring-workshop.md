@@ -179,7 +179,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td>10:30</td>
-    <td class="admin">
+    <td class="presentation">
       <p>Coffee and Poster Session II</p>
       <br>
       <p>1:1 w/ seniors</p>
@@ -194,7 +194,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     <td style="padding: 0; background-color: #fff">
       <table style="width: 100%; border-collapse: collapse;">
         <tbody><tr>
-          <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(64, 50%, 80%, 0.5);">
+          <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);">
             <p>Group Interaction</p>
           </td>
           <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
