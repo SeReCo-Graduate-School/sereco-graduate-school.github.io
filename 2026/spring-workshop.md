@@ -180,9 +180,22 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>10:30</td>
     <td class="presentation">
-      <p>Coffee and Poster Session II</p>
+      <p>Coffee Break</p>
+    </td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td class="presentation">
+      <p><i>Category IV</i> (Chair: TBD) </p>
+      <p>Presentation X
       <br>
-      <p>1:1 w/ seniors</p>
+      Speaker: Speaker X</p>
+      <p>Presentation XI
+      <br>
+      Speaker: Speaker XI</p>
+      <p>Presentation XII
+      <br>
+      Speaker: Speaker XII</p>
     </td>
   </tr>
   <tr>
