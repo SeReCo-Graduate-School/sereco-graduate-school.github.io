@@ -77,7 +77,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Opening Session</p> (Andreas Harth)
     </td>
   </tr>
- <tr>
+  <tr>
     <td>09:30</td>
     <td class="highlight">
       <p><i>SeReCo</i></p>
@@ -106,7 +106,6 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       Speaker: Speaker III</p>
     </td>
   </tr>
-
   <tr>
     <td>12:00</td>
     <td class="admin">Lunch at TBD</td>
@@ -153,14 +152,13 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     </td>
   </tr>
   <tr>
-  <td>18:00</td>
+    <td>18:00</td>
     <td class="admin">
       <p>Dinner at TBD</p>
     </td>
   </tr>
   <tr></tr>
-  <td> </td>
-    <tr>
+  <tr>
     <th></th>
     <th>Thurday (March 19, 2026)</th>
   </tr>
