@@ -51,7 +51,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
 <table class="agenda">
   <tr>
     <th></th>
-    <th>Tuesday (March 18, 2026)</th>
+    <th>Tuesday (March 17, 2026)</th>
   </tr>
   <tr>
     <td>18:00</td>
