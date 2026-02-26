@@ -195,7 +195,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <table style="width: 100%; border-collapse: collapse;">
         <tbody><tr>
           <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);">
-            <p>Group Interaction</p>
+            <p>Group Interaction II (TBD)</p>
           </td>
           <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
             <p>Seniors Planning</p>
