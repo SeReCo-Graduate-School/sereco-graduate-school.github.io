@@ -14,6 +14,8 @@ The Workshop will be hosted on 18th and 19th of March 2026 in Nuremberg, Germany
 - Universität St. Gallen
 - Université Côte d’Azur
 
+## Register
+
 To register, please fill out the [registration form](https://forms.gle/gDqd7PxVz6roojGp6) and to contribute to the workshop, please fill out the [Call for Contributions](https://forms.gle/Ja1TReeaTJum8CDE8) form.
 
 ## Location
