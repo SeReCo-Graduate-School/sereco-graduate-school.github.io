@@ -1,7 +1,7 @@
 ---
 ---
 
-# SeReCo Workshop 2026
+# SeReCo Spring Workshop 2026
 
 We invite you to join the Workshop 2026 of the Doctoral College for Semantics, Reasoning and Coordination.
 
