@@ -131,7 +131,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>14:50</td>
     <td class="presentation">
-      <p>Coffee and Poster Session I</p>
+      <p>Coffee and Poster Session</p>
       <br>
       <p>1:1 w/ seniors</p>
     </td>
