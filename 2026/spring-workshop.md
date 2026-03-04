@@ -76,7 +76,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>09:25</td>
     <td class="admin">
-      <p>Opening Session</p> (Andreas Harth)
+      <p>Opening Session (Andreas Harth)</p>
     </td>
   </tr>
   <tr>
