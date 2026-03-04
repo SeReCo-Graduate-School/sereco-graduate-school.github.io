@@ -222,7 +222,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     </td>
   </tr>
   <tr>
-    <td>15:45</td>
+    <td class="highlight">15:45</td>
     <td>Closing Session</td>
   </tr>
   <tr>
