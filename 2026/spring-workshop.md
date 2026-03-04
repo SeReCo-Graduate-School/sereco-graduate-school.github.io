@@ -16,7 +16,7 @@ The Workshop will be hosted on 18th and 19th of March 2026 in Nuremberg, Germany
 
 ## Register
 
-To register, please fill out the [registration form](https://forms.gle/gDqd7PxVz6roojGp6) and to contribute to the workshop, please also fill out the [Call for Contributions](https://forms.gle/Ja1TReeaTJum8CDE8) form.
+To register, please fill out the [registration form](https://forms.gle/gDqd7PxVz6roojGp6).
 
 ## Location
 
@@ -99,7 +99,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p><i>Agentic Systems</i> (Chair: Antoine Zimmermann) </p>
       <p>Beyond Search: Evaluating the Web Navigation Ability of Language Model-Based Agents
       <br>
-      Speaker: René Dorsch I</p>
+      Speaker: René Dorsch</p>
       <p>A Normative Model to Adapt the Regulation Management of Multi-Agent Systems
       <br>
       Speaker: Elena Yan</p>
@@ -225,7 +225,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td >15:45</td>
-    <td class="highlight">Closing Session</td>
+    <td class="highlight">Closing Session (Thomas Wehr)</td>
   </tr>
   <tr>
     <td>16:00</td>
