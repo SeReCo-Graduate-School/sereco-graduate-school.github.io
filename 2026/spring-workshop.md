@@ -94,16 +94,16 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>11:00</td>
     <td class="presentation"> 
-      <p><i>Category I</i> (Chair: TBD) </p>
-      <p>Presentation I
+      <p><i>Agentic Systems</i> (Chair: Antoine Zimmermann) </p>
+      <p>Beyond Search: Evaluating the Web Navigation Ability of Language Model-Based Agents
       <br>
-      Speaker: Speaker I</p>
-      <p>Presentation II
+      Speaker: René Dorsch I</p>
+      <p>A Normative Model to Adapt the Regulation Management of Multi-Agent Systems
       <br>
-      Speaker: Speaker II</p>
-      <p>Presentation III
+      Speaker: Elena Yan</p>
+      <p>Taskmaster
       <br>
-      Speaker: Speaker III</p>
+      Speaker: Sebastian Schmid</p>
     </td>
   </tr>
   <tr>
@@ -113,26 +113,23 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>14:00</td>
     <td class="presentation">
-      <p><i>Category II</i> (Chair: TBD) </p>
-      <p>Presentation IV
+      <p><i>LLM Grounding</i> (Chair: Pierre Maret) </p>
+      <p>Grounding LLM Agents: A Semantic Adapter Approach
       <br>
-      Speaker: Speaker IV</p>
-      <p>Presentation V
+      Speaker: Michael Freund</p>
+      <p>Impact of Knowledge Graph Representations on Question Answering with Language Models
       <br>
-      Speaker: Speaker V</p>
-      <p>Presentation VI
-      <br>
-      Speaker: Speaker VI</p>
+      Speaker: Daniel Henselmann</p>
     </td>
   </tr>
   <tr>
-    <td>15:00</td>
+    <td>14:40</td>
     <td class="highlight">
       <p>Lightning Round</p>
     </td>
   </tr>
   <tr>
-    <td>15:15</td>
+    <td>14:50</td>
     <td class="presentation">
       <p>Coffee and Poster Session I</p>
       <br>
@@ -165,21 +162,21 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>9:30</td>
     <td class="presentation">
-      <p><i>Category III</i> (Chair: TBD) </p>
-      <p>Presentation VII
+      <p><i>Web and Solid</i> (Chair: Tobias Käfer) </p>
+      <p>Coordination-Free Collaboration for Decentralized Solid Pods
       <br>
-      Speaker: Speaker VII</p>
-      <p>Presentation VIII
+      Speaker: Marco Hauff</p>
+      <p>Towards Solid Based Knowledge Hub for Secure and Interoperable Data Exchange in European Universities 
       <br>
-      Speaker: Speaker VIII</p>
-      <p>Presentation IX
+      Speaker: Raza Naqvi</p>
+      <p>Representing and deploying web service compositions as knowledge graphs
       <br>
-      Speaker: Speaker IX</p>
+      Speaker: William Charles</p>
     </td>
   </tr>
   <tr>
     <td>10:30</td>
-    <td>
+    <td class="admin">
       <p>Coffee Break</p>
     </td>
   </tr>
@@ -187,15 +184,15 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     <td>11:00</td>
     <td class="presentation">
       <p><i>Category IV</i> (Chair: TBD) </p>
-      <p>Presentation X
+      <p>Talk about RDF and Zero Knowledge Proofs
       <br>
-      Speaker: Speaker X</p>
-      <p>Presentation XI
+      Speaker: Christoph Braun</p>
+      <p>Investigating Language Model Capabilities to Represent and Process Formal Knowledge: A Preliminary Study to Assist Ontology Engineering
       <br>
-      Speaker: Speaker XI</p>
-      <p>Presentation XII
+      Speaker: Hanna Abi Akl</p>
+      <p>Virtual Process Dossier: A Process-aware Data Catalog 
       <br>
-      Speaker: Speaker XII</p>
+      Speaker: Lukas Kubelka</p>
     </td>
   </tr>
   <tr>
