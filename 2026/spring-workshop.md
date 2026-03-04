@@ -82,8 +82,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>09:30</td>
     <td class="highlight">
-      <p><i>SeReCo</i></p>
-      <p>Keynote
+      <p>SeReCo Keynote: Automated Planning with Ontologies
       <br>
       Speaker: <a target="_blank" href="https://lat.inf.tu-dresden.de/~stefborg/">Stefan Borgwardt</a></p>
       <p>(Chair: Andreas Harth)</p>
