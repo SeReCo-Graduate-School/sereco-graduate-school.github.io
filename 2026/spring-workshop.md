@@ -183,7 +183,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>11:00</td>
     <td class="presentation">
-      <p><i>Category IV</i> (Chair: TBD) </p>
+      <p><i>Knowledge Representation and Formal Semantics</i> (Chair: Andreas Harth) </p>
       <p>Talk about RDF and Zero Knowledge Proofs
       <br>
       Speaker: Christoph Braun</p>
