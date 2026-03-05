@@ -195,7 +195,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Talk about RDF and Zero Knowledge Proofs
       <br>
       Speaker: Christoph Braun</p>
-      <p>Investigating Language Model Capabilities to Represent and Process Formal Knowledge: A Preliminary Study to Assist Ontology Engineering
+      <p>Proving Soundness of SPARQL Query Results using Selective Disclosure of RDF Datasets and Zero-Knowledge Proofs
       <br>
       Speaker: Hanna Abi Akl</p>
       <p>Virtual Process Dossier: A Process-aware Data Catalog 
