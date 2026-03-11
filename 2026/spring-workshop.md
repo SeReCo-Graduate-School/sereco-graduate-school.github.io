@@ -171,7 +171,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     <td>9:30</td>
     <td class="presentation">
       <p><i>Web and Solid</i> (Chair: Tobias Käfer) </p>
-      <p>Coordination-Free Collaboration for Decentralized Solid Pods
+      <p>HERMIT: A High-Performance Solid Server
       <br>
       Speaker: Marco Hauff</p>
       <p>Towards Solid Based Knowledge Hub for Secure and Interoperable Data Exchange in European Universities 
