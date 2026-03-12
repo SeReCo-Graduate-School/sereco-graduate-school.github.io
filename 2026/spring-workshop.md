@@ -71,12 +71,14 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     <td>09:00</td>
     <td class="admin">
       <p>Welcome coffee</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
     <td>09:25</td>
     <td class="admin">
       <p>Opening Session (Andreas Harth)</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -86,11 +88,15 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <br>
       Speaker: <a target="_blank" href="https://lat.inf.tu-dresden.de/~stefborg/">Stefan Borgwardt</a></p>
       <p>(Chair: Andreas Harth)</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
     <td>10:30</td>
-    <td class="admin">Coffee Break</td>
+    <td class="admin">
+      <p>Coffee Break</p>
+      <p style="color: grey;">Room: 0.016</p>
+    </td>
   </tr>
   <tr>
     <td>11:00</td>
@@ -105,6 +111,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Taskmaster
       <br>
       Speaker: Sebastian Schmid</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -121,12 +128,14 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Impact of Knowledge Graph Representations on Question Answering with Language Models
       <br>
       Speaker: Daniel Henselmann</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
     <td>14:40</td>
     <td class="highlight">
       <p>Lightning Round</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -136,9 +145,11 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
         <tbody><tr>
           <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(64, 50%, 80%, 0.5);">
             <p>Coffee and Poster Session</p>
+            <p style="color: grey;">Room: 0.016</p>
           </td>
           <td class="highlight" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);text-align: center;">
             <p>1:1 w/ seniors</p>
+            <p style="color: grey;">Room: 2.024</p>
           </td>
         </tr>
       </tbody></table>
@@ -147,13 +158,15 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>16:30</td>
     <td class="highlight">
-      ✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)
+      <p>✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
     <td>17:45</td>
     <td class="admin">
       <p>Group photo</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -180,12 +193,14 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Representing and deploying web service compositions as knowledge graphs
       <br>
       Speaker: William Charles</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
     <td>10:30</td>
     <td class="admin">
       <p>Coffee Break</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -201,6 +216,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <p>Virtual Process Dossier: A Process-aware Data Catalog 
       <br>
       Speaker: Lukas Kubelka</p>
+      <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
   <tr>
@@ -214,9 +230,11 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
         <tbody><tr>
           <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);">
             <p>✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)</p>
+            <p style="color: grey;">Room: 0.016</p>
           </td>
           <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
             <p>Seniors Planning</p>
+            <p style="color: grey;">Room: 2.024</p>
           </td>
         </tr>
       </tbody></table>
@@ -224,7 +242,10 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td >15:45</td>
-    <td class="admin">Closing Session (Thomas Wehr)</td>
+    <td class="admin">
+      <p>Closing Session (Thomas Wehr)</p>
+      <p style="color: grey;">Room: 0.016</p>
+    </td>
   </tr>
   <tr>
     <td>16:00</td>
