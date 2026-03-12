@@ -159,7 +159,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>18:00</td>
     <td class="admin">
-      <p>Dinner at TBD</p>
+      <p>Dinner at <a href="https://www.lausbub-pizza.de/">Lausbub</a></p>
     </td>
   </tr>
   <tr></tr>
