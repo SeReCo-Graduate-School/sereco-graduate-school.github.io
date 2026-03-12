@@ -147,7 +147,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>16:30</td>
     <td class="highlight">
-      Group Interaction I (TBD)
+      ✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)
     </td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <table style="width: 100%; border-collapse: collapse;">
         <tbody><tr>
           <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);">
-            <p>Group Interaction II (TBD)</p>
+            <p>✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)</p>
           </td>
           <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
             <p>Seniors Planning</p>
@@ -224,7 +224,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td >15:45</td>
-    <td class="highlight">Closing Session (Thomas Wehr)</td>
+    <td class="admin">Closing Session (Thomas Wehr)</td>
   </tr>
   <tr>
     <td>16:00</td>
