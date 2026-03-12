@@ -58,7 +58,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>18:00</td>
     <td class="highlight">
-      <p>Social Gathering: Drinks (and food) <a href="https://www.cafe-luftsprung.com/">Luftsprung</a>.</p> 
+      <p>Social Gathering: Drinks (and food) at Restaurant <a href="https://www.cafe-luftsprung.com/">Luftsprung</a>.</p> 
       <p></p>
     </td>
   </tr>
@@ -116,7 +116,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td>12:00</td>
-    <td class="admin">Lunch at <a href="https://celona.de/finca-bar-celona-nuernberg">Bar Celona</a> (12:15)</td>
+    <td class="admin">Lunch at Restaurant <a href="https://celona.de/finca-bar-celona-nuernberg">Bar Celona</a> (12:15)</td>
   </tr>
   <tr>
     <td>14:00</td>
@@ -221,7 +221,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td>12:00</td>
-    <td class="admin">Lunch at Bar <a href="https://www.bratwurst-roeslein.de/en/">Bratwurst Röslein</a> (12:15)</td>
+    <td class="admin">Lunch at Restaurant <a href="https://www.bratwurst-roeslein.de/en/">Bratwurst Röslein</a> (12:15)</td>
   </tr>
   <tr>
     <td>14:00</td>
