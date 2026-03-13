@@ -241,6 +241,13 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
     </td>
   </tr>
   <tr>
+    <td >15:15</td>
+    <td class="highlight">
+      <p>✨ Collaborative ConceptHack – Result Presentation ✨</p>
+      <p style="color: grey;">Room: 0.016</p>
+    </td>
+  </tr>
+  <tr>
     <td >15:45</td>
     <td class="admin">
       <p>Closing Session (Thomas Wehr)</p>
