@@ -229,7 +229,8 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
       <table style="width: 100%; border-collapse: collapse;">
         <tbody><tr>
           <td style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(128, 50%, 80%, 0.5);">
-            <p>✨Collaborative ConceptHack✨ (Lukas Kubelka, Lukas Kinder)</p>
+            <p>✨Collaborative ConceptHack✨</p>
+            <p>(Lukas Kubelka, Lukas Kinder)</p>
             <p style="color: grey;">Room: 0.016</p>
           </td>
           <td class="admin" style="width: 50%; padding: 5px; vertical-align: top; background-color: hsla(0, 50%, 80%, 0.5);text-align: center;">
@@ -242,8 +243,9 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   </tr>
   <tr>
     <td >15:15</td>
-    <td class="highlight">
+    <td class="presentation">
       <p>✨ Collaborative ConceptHack – Result Presentation ✨</p>
+      <p>(Lukas Kubelka, Lukas Kinder)</p>
       <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
