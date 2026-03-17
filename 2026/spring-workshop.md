@@ -70,7 +70,7 @@ We are excited to announce [Stefan Borgwardt](https://lat.inf.tu-dresden.de/~ste
   <tr>
     <td>09:00</td>
     <td class="admin">
-      <p>Welcome coffee</p>
+      <p>Welcome</p>
       <p style="color: grey;">Room: 0.016</p>
     </td>
   </tr>
