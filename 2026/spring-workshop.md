@@ -20,7 +20,7 @@ To register, please fill out the [registration form](https://forms.gle/gDqd7PxVz
 
 ## Location
 
-The workshop is located at the [Friedrich-Alexander-Universität Erlangen-Nürnberg School of Business, Economics and Society](https://www.wiso.rw.fau.de/) **Findelgasse 7/9** in **90403 Nuremberg, Germany**, see [map and directions](https://www.wiso.rw.fau.de/anfahrt-und-lageplan/).
+The workshop is located at the [Friedrich-Alexander-Universität Erlangen-Nürnberg School of Business, Economics and Society](https://www.wiso.rw.fau.de/) **Findelgasse 9** in **90403 Nuremberg, Germany**, see [map and directions](https://www.wiso.rw.fau.de/anfahrt-und-lageplan/).
 
 ### Accomodations
 
